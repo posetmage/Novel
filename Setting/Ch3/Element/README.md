@@ -1,0 +1,34 @@
+*Lok‘tar ogar (勝利或者死亡)*  
+<p align="right"><i>−−《魔獸世界》</i></p>
+
+*異議あり！*  
+<p align="right"><i>−−《逆轉裁判》</i></p>
+
+# Element 技能  
+風 Sylph 召喚 - 通報地形  
+風 加速魔法 - 增加速度  
+風 沙塵暴 - 降低敵人移動速度  
+風 傳送魔法 - 傳送至任意地點  
+
+水 Undine召喚 - 幫隊友補血  
+水 恢復魔法 - 一段時間連續補血  
+水 水球魔法 - 低階遠距單體魔法攻擊  
+水 冰箭魔法 - 高階遠距單體魔法攻擊  
+
+地 土壁 - 產生障礙物  
+地 Gnome 召喚 - 增加戰場物理隊友  
+地 隕石魔法- 超遠程小規模範圍魔法攻擊  
+地 流星雨 -超遠程大規模範圍魔法攻擊  
+
+火 火牆 - 一個橫排持續燃燒的魔法  
+火 強化盔甲 - 強化身上魔法防禦  
+火 強化武器 - 強化魔法攻擊力  
+火 Salamander 召喚 - 戰場增加魔法隊友  
+
+## 魔法技能樹
+<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch3/Element/ElementSkillTree.svg" Width="350" />
+
+
+上一篇[科技技能](https://partiallyorderedmagic.github.io/Setting/Ch3/Technology) ,
+回到[目錄](https://partiallyorderedmagic.github.io/#ch-3-god-view) ,
+下一篇[信仰技能](https://partiallyorderedmagic.github.io/Setting/Ch3/Faith)
