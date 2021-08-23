@@ -20,29 +20,29 @@
 
 ## ICON 演進歷史
  * Magic + partial order+地水火風四色
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/001.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/001.png" Width="30" />
  * 中心部分使用六角形當作魔法寶石
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/002.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/002.png" Width="30" />
  * 嘗試只用六角形魔法寶石
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/003.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/003.png" Width="30" />
  * 中空菱形當魔法寶石
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/004.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/004.png" Width="30" />
  * 改變比例
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/005.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/005.png" Width="30" />
  * 六角形魔法寶石、中空圓形
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/006.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/006.png" Width="30" />
  * 加回原本的箭頭
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/007.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/007.png" Width="30" />
  * 簡化改為中空菱形
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/008.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/008.png" Width="30" />
  * 捨棄箭頭的身體
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/009.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/009.png" Width="30" />
  * 隨意上個色
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/010.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/010.png" Width="30" />
  * 地水火風四色放到寶石位置
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/011.png" Width="30" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/011.png" Width="30" />
  * 完成，當然要來畫個技能樹圖
-   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/MyIcon/Evolution/012.png" Width="500" />
+   * <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Evolution/012.png" Width="500" />
 
 上一章節[信仰技能](https://partiallyorderedmagic.github.io/Setting/Ch3/Faith) ,
 回到[目錄](https://partiallyorderedmagic.github.io/#appendix) ,
