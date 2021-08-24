@@ -13,4 +13,7 @@
 
 上一篇[塔羅牌陣](https://partiallyorderedmagic.github.io/Setting/Ch2/Tarot) ,
 回到[目錄](https://partiallyorderedmagic.github.io/#ch-2-documentation) ,
-下一篇[元素精靈](https://partiallyorderedmagic.github.io/Setting/Ch2/Elementals) ,
+下一篇[元素精靈](https://partiallyorderedmagic.github.io/Setting/Ch2/Elementals)
+
+
+<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
