@@ -1,7 +1,7 @@
 *這是禁止事項*  
 <p align="right"><i>−−朝比奈實玖瑠《涼宮春日》</i></p>
 
-## 四元素掌管精靈
+## 四元素掌管者
 <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Elementals/FourElement.png" Width="250" />
 
 ### Undine
@@ -24,4 +24,7 @@ Gnome 為地精，掌管自然生物生長，身形極小，可躲在植物後�
 
 上一篇[脈輪](https://partiallyorderedmagic.github.io/Setting/Ch2/Cakra) ,
 回到[目錄](https://partiallyorderedmagic.github.io/#ch-2-documentation) ,
-下一篇[經絡](https://partiallyorderedmagic.github.io/Setting/Ch2/Meridian) ,
+下一篇[經絡](https://partiallyorderedmagic.github.io/Setting/Ch2/Meridian) 
+
+
+<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
