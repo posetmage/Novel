@@ -47,8 +47,9 @@
 ## 其他頁面
   * [Blogger](https://partiallyorderedmagic.blogspot.com/)
   * [Youtube](https://www.youtube.com/channel/UCWcv0h98DRlLEeMftXsZI1Q/)
-  * [Github區連載](https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/tree/master/Novel)
-  * [FB連載](https://www.facebook.com/PartiallyOrderedMagic)
+  * 小說短文連載區
+    * [Github連載](https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/tree/master/Novel)
+    * [FB連載](https://www.facebook.com/PartiallyOrderedMagic)
 
 
 <p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
