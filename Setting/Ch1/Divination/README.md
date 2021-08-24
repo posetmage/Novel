@@ -65,3 +65,9 @@
 上一篇[物理學 - Entropy](https://partiallyorderedmagic.github.io/Setting/Ch1/Entropy/) ,
 回到[目錄](https://partiallyorderedmagic.github.io/#ch-1-world-setting) ,
 下一篇[家教課](https://partiallyorderedmagic.github.io/Setting/Ch1/Tuition)
+
+
+
+
+<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+
