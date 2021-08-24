@@ -7,7 +7,7 @@
 # Partially Ordered Magic Handbook
 ## Ch 1: World Setting
 發生在這個世界的故事  
-  * [大一統理論 - Entropy](Setting/Ch1/Entropy/)
+  * [大一統理論：Entropy](Setting/Ch1/Entropy/)
   * [某商人的第一次占卜](Setting/Ch1/Divination/)  
   * [家教課](Setting/Ch1/Tuition)
   * [戰術指南](Setting/Ch1/Tactics)
