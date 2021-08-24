@@ -51,4 +51,5 @@
   * [FB連載](https://www.facebook.com/PartiallyOrderedMagic)
 
 
-<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/FourElement.png" Height="16" /> POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="16" />
+<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/FourElement.png" Height="16" /> 
+<span style="color: white;"><span style="background-color: black;">POM entertainment </span></span><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="16" />
