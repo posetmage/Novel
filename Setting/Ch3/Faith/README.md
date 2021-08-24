@@ -31,4 +31,7 @@
 
 上一篇[元素技能](https://partiallyorderedmagic.github.io/Setting/Ch3/Element) ,
 回到[目錄](https://partiallyorderedmagic.github.io/#ch-3-god-view) ,
-下一章節[POM由來](https://partiallyorderedmagic.github.io/Setting/Appendix/POM) ,
+下一章節[POM由來](https://partiallyorderedmagic.github.io/Setting/Appendix/POM) 
+
+
+<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
