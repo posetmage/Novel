@@ -35,3 +35,7 @@
 上一篇[某商人的日記](https://partiallyorderedmagic.github.io/Setting/Ch1/Diary) ,
 回到[目錄](https://partiallyorderedmagic.github.io/#ch-1-world-setting) ,
 下一篇[圖書館抄書](https://partiallyorderedmagic.github.io/Setting/Ch1/Manuscript)
+
+
+
+<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
