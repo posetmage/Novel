@@ -82,3 +82,6 @@ Dwarf-Human | 3| 2.5| 2.5| 2
 上一篇[特殊結構](https://partiallyorderedmagic.github.io/Setting/Ch3/Peculiar) ,
 回到[目錄](https://partiallyorderedmagic.github.io/#ch-3-god-view) ,
 下一篇[技能三向性](https://partiallyorderedmagic.github.io/Setting/Ch3/Triality)
+
+
+<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
