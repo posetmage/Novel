@@ -45,7 +45,7 @@ Entropy並不是什麼高深的概念，甚至可能連學齡前的孩童都能�
   
 *−−海倫．沃特《魔法與科技》*  
 
-[回到目錄](https://partiallyorderedmagic.github.io/#ch-1-world-setting) ,
+回到[目錄](https://partiallyorderedmagic.github.io/#ch-1-world-setting) ,
 下一篇[某商人的第一次占卜](https://partiallyorderedmagic.github.io/Setting/Ch1/Divination/)
 
 
