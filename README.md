@@ -44,7 +44,7 @@
   * [POM由來](Setting/Appendix/POM)
   * [其他工具](Setting/Appendix/Tools)
 
-## 其他頁面
+## 其他站外連結
   * [POM Blogger](https://partiallyorderedmagic.blogspot.com/)
   * [POM Youtube](https://www.youtube.com/channel/UCWcv0h98DRlLEeMftXsZI1Q/)
   * POM小說連載區
