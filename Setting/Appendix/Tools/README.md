@@ -1,5 +1,17 @@
 # Tools
 
+*Lok‘tar ogar (勝利或者死亡)*  
+<p align="right"><i>−−《魔獸世界》</i></p>
+
+*異議あり！*  
+<p align="right"><i>−−《逆轉裁判》</i></p>
+
+*這是禁止事項*  
+<p align="right"><i>−−朝比奈實玖瑠《涼宮春日》</i></p>
+
+*El Psy Kongroo*  
+<p align="right"><i>−−岡部倫太郎《命運石之門》</i></p>
+
 ## 免費商用圖庫
 https://cc0.wfublog.com/
 
