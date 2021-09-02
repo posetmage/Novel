@@ -1,11 +1,5 @@
 # Tools
 
-*Lok‘tar ogar (勝利或者死亡)*  
-<p align="right"><i>−−《魔獸世界》</i></p>
-
-*異議あり！*  
-<p align="right"><i>−−《逆轉裁判》</i></p>
-
 *這是禁止事項*  
 <p align="right"><i>−−朝比奈實玖瑠《涼宮春日》</i></p>
 
