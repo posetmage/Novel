@@ -1,5 +1,8 @@
-*這是禁止事項*  
-<p align="right"><i>−−朝比奈實玖瑠《涼宮春日》</i></p>
+*メラゾーマ*  
+*イオナズン*  
+*ギラグレイド*  
+*バギクロス*  
+<p align="right"><i>−−《勇者鬥惡龍》</i></p>
 
 ## 四元素掌管者
 <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Elementals/FourElement.png" Width="250" />
