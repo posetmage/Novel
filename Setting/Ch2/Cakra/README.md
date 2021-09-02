@@ -1,5 +1,7 @@
 *看我跳躍 天之銀嶺*  
 <p align="right"><i>−−《魔術士歐菲》</i></p>
+*ルーラ*    
+<p align="right"><i>−−《勇者鬥惡龍》</i></p>
 
 # Cakra
  <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Cakra/Cakra.svg" Width="250" />
