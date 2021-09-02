@@ -1,9 +1,8 @@
-*是我，是我先，明明都是我先來的*  
-<p align="right"><i>−−冬馬和紗《白色相簿2》</i></p>
+*看我施放光之白刃*  
+<p align="right"><i>−−《魔術士歐菲》</i></p>
 
 # Cakra
  <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Cakra/Cakra.svg" Width="250" />
-
 
 # 穿雲眼
 強化眉心輪 (Ajna)，就能開啟第三隻眼，感知戰場中敵人的技能。
