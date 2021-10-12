@@ -31,9 +31,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.19940584"
-     inkscape:cx="982.99048"
-     inkscape:cy="1184.6873"
+     inkscape:zoom="0.79762338"
+     inkscape:cx="1789.647"
+     inkscape:cy="1091.1151"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -542,16 +542,18 @@
        style="stroke-width:0.26458332"></tspan></text>
   <flowRoot
      xml:space="preserve"
-     id="flowRoot300"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="matrix(0.26458333,0,0,0.26458333,120.08069,-45.776617)"><flowRegion
-       id="flowRegion302"><rect
-         id="rect304"
-         width="218.14806"
-         height="100.29797"
-         x="1425.4847"
-         y="1051.8412" /></flowRegion><flowPara
-       id="flowPara306"
-       style="text-align:center;text-anchor:middle">冒險者公會</flowPara>
-   </flowRoot>
+     id="flowRoot320"
+     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion322"><rect
+         id="rect324"
+         width="268.29706"
+         height="226.92415"
+         x="1790.3186"
+         y="1009.319" /></flowRegion><flowPara
+       id="flowPara326"></flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="499.0874"
+     y="247.21893"
+     id="text32-6-7-8-9-8-9-2">冒險者公會</text>
 </svg>
