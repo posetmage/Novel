@@ -6,9 +6,10 @@
 也會使用祈禱治療，完全是輔助型的隊友。  
 信仰神，所以配戴十字架項鍊，由於是要潛行，所以是深色不反光的材質。
 全身的裝備主要是輕裝為主，方便快速移動  
-長髮  
-服裝接近忍者，
 https://truth.bahamut.com.tw/s01/201702/784ec84f0e2e09798b99b502ad232926.JPG  
+長髮  
+服裝接近忍者，  
+https://i.imgur.com/RhJh1w0.jpg  
 但是有大量迷彩  
 武器是雙kukri knife，便於野外生活和料理  
 https://i.ebayimg.com/images/g/yZ0AAOSwxOReTB6t/s-l640.jpg  
