@@ -14,6 +14,7 @@ https://truth.bahamut.com.tw/s01/201702/784ec84f0e2e09798b99b502ad232926.JPG
 https://i.ebayimg.com/images/g/yZ0AAOSwxOReTB6t/s-l640.jpg  
 個性稍微容易害羞怕生，但是會積極面對工作  
 有一隻蜘蛛寵物當朋友  
+https://zeroanime.org/wp-content/uploads/e62ed90ceb3844f1077fd88afb93f7d4.png
 
 ## Sienna(女)
 精靈族 身高193 體重99kg  
@@ -39,7 +40,7 @@ https://huiji-public.huijistatic.com/ff14/uploads/9/90/%E6%AD%A6%E5%83%A70.jpg
 https://m.media-amazon.com/images/I/61+LXxQSorL._AC_SL1500_.jpg  
 個性開朗、喜歡與人群相處、集中力容易專注在眼前的事務而忽略周遭  
 比起修理武器，更喜歡修理鍋碗瓢盆  
-
+https://i.imgur.com/XnrCQjO.png  
 
 ## Claire(女)
 不死族 身高140 體重30kg  
