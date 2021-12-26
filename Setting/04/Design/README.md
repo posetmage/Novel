@@ -20,6 +20,7 @@ https://i.ebayimg.com/images/g/yZ0AAOSwxOReTB6t/s-l640.jpg
 商人 有著靈活的談判討價技巧   
 帶有許多暗器，長年的戰鬥經驗體悟到只有不擇手段的人可以活下。  
 頻繁有在做體能訓練，肌肉緊實發達，但是口罩遮著臉部是不讓人容易認出，衣服包覆全身。內搭服裝造型接近武僧  
+https://pbs.twimg.com/media/D879ISeVsAEJgdc.jpg  
 http://gearnuke.com/wp-content/uploads/2014/05/Diablo-3-Monk-Class.jpg  
 低雙馬尾，腰間兩側有小刀，腿上有煙霧彈、毒針  
 頭上戴著貝雷帽，還有一件寬鬆的大衣外套，大衣內側或外側掛著鈍器，鐧  
