@@ -41,6 +41,7 @@ https://m.media-amazon.com/images/I/61+LXxQSorL._AC_SL1500_.jpg
 
 ## Claire(女)
 不死族 身高140 體重30kg  
+死靈魔法師 也會使用操偶術 手上的玩偶是武器
 服裝是黑色系歌德羅利  
 個性腹黑毒蛇  
 https://livedoor.blogimg.jp/kyukkyus/imgs/9/c/9c911e24.jpg  
