@@ -6,9 +6,11 @@
 也會使用祈禱治療，完全是輔助型的隊友。  
 全身的裝備主要是輕裝為主，方便快速移動  
 長髮  
-服裝接近忍者，但是有大量迷彩  
+服裝接近忍者，
 https://truth.bahamut.com.tw/s01/201702/784ec84f0e2e09798b99b502ad232926.JPG  
+但是有大量迷彩  
 武器是雙kukri knife，便於野外生活和料理  
+https://i.ebayimg.com/images/g/yZ0AAOSwxOReTB6t/s-l640.jpg  
 個性稍微容易害羞怕生，但是會積極面對工作  
 有一隻蜘蛛寵物當朋友  
 
@@ -19,7 +21,8 @@ https://truth.bahamut.com.tw/s01/201702/784ec84f0e2e09798b99b502ad232926.JPG
 頻繁有在做體能訓練，肌肉緊實發達，但是遮著臉部是不讓人容易認出，衣服包覆全身。服裝造型接近武僧  
 http://gearnuke.com/wp-content/uploads/2014/05/Diablo-3-Monk-Class.jpg  
 低雙馬尾，腰間兩側有小刀，腿上有煙霧彈、毒針  
-還有一件寬鬆的大衣外套，外側掛著鈍器，鐧
+還有一件寬鬆的大衣外套，外側掛著鈍器，鐧  
+https://img.ruten.com.tw/s7/087/a39/iiiiuu/a/8a/22050243747466_574.jpg  
 個性沉著、少話、但是隨時會注意周遭、隨時警戒，連睡覺的時候都是警戒狀態
 
 ## Cole(女)
@@ -30,6 +33,7 @@ https://cdn.trails-game.com/wp-content/uploads/2021/06/Tita_fc_evo.png
 https://huiji-public.huijistatic.com/ff14/uploads/9/90/%E6%AD%A6%E5%83%A70.jpg  
 單馬尾，容易執行鍛造  
 腰間配帶rock hammer、螺絲起子、鑽石銼刀，便於修理裝備和整修地形  
+https://m.media-amazon.com/images/I/61+LXxQSorL._AC_SL1500_.jpg  
 個性開朗、喜歡與人群相處、集中力容易專注在眼前的事務而忽略周遭  
 比起修理武器，更喜歡修理鍋碗瓢盆  
 
@@ -37,6 +41,6 @@ https://huiji-public.huijistatic.com/ff14/uploads/9/90/%E6%AD%A6%E5%83%A70.jpg
 ## Claire(女)
 不死族 身高140 體重30kg  
 服裝是黑色系歌德羅利  
-個性腹黑毒蛇
+個性腹黑毒蛇  
 https://livedoor.blogimg.jp/kyukkyus/imgs/9/c/9c911e24.jpg  
 https://i.pinimg.com/originals/aa/10/82/aa1082b9673f33b7046a46a39b64036b.jpg  
