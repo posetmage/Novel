@@ -34,7 +34,8 @@ https://img.ruten.com.tw/s7/087/a39/iiiiuu/a/8a/22050243747466_574.jpg
 矮人族 身高140 體重50kg
 一身工作服，感覺就是做粗活的  
 https://cdn.trails-game.com/wp-content/uploads/2021/06/Tita_fc_evo.png  
-有著安全帽和防風眼鏡，帶著工作手套。武器是護膝護肘和指虎，擅長肉搏  
+有著安全帽和防風眼鏡，帶著工作手套。  
+武器是護膝護肘和指虎，擅長肉搏  
 https://huiji-public.huijistatic.com/ff14/uploads/9/90/%E6%AD%A6%E5%83%A70.jpg  
 單馬尾，容易執行鍛造  
 腰間配帶rock hammer、螺絲起子、鑽石銼刀，便於修理裝備和整修地形  
