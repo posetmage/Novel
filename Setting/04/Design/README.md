@@ -22,7 +22,7 @@ https://i.ebayimg.com/images/g/yZ0AAOSwxOReTB6t/s-l640.jpg
 頻繁有在做體能訓練，肌肉緊實發達，但是口罩遮著臉部是不讓人容易認出，衣服包覆全身。服裝造型接近武僧  
 http://gearnuke.com/wp-content/uploads/2014/05/Diablo-3-Monk-Class.jpg  
 低雙馬尾，腰間兩側有小刀，腿上有煙霧彈、毒針  
-還有一件寬鬆的大衣外套，外側掛著鈍器，鐧  
+還有一件寬鬆的大衣外套，大衣內側掛著鈍器，鐧  
 https://img.ruten.com.tw/s7/087/a39/iiiiuu/a/8a/22050243747466_574.jpg  
 個性謹慎沉著、少話、但是隨時會注意周遭、隨時警戒，連睡覺的時候都是警戒狀態
 
