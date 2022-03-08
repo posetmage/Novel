@@ -9,10 +9,6 @@
 9 Yesod - "Foundation“  
 0 Malkuth - "Kingship”  
 
- א‎ 	ב‎ 	ג‎ 	ד‎ 	ה‎ 	ו‎ 	ז‎ 	ח‎ 	ט‎ 	י‎ 	ך‎ 	כ‎ 	ל‎ 	ם‎ 	מ‎ 	ן‎ 	נ‎ 	ס‎ 	ע‎ 	ף‎ 	פ‎ 	 	צ‎ 	ק‎ 	ר‎ 	ש‎ 	ת‎ 					ׯ‎   
-
-
-
 
 (1)Alef - father   
 (2)Bet - house  
@@ -36,22 +32,3 @@
 (20)Resh - leg  
 (21)Shin - sky  
 (22)Tav - palm  
-
-Virgo ♍️
-Libra ♎️
-Scorpio ♏️
-Sagittarius ♐️
-Capricorn ♑️
-Aquarius ♒️
-Pisces ♓️
-
-Sun ☉
-Moon ☽, ☾
-Mercury ☿
-Venus ♀
-Mars ♂
-Jupiter ♃
-Saturn ♄
-Uranus ♅ ⛢
-Neptune ♆
-Pluto ♇
