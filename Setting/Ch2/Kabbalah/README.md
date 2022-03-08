@@ -44,7 +44,6 @@
 ## 托特塔羅版本
 <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Kabbalah/Kabbalah-Thoth.svg" Width="400" />  
 
-
 |塔羅|卡巴拉|希伯來文|占星|牌義|
 |-|-|-|-|-|
 |Fool愚者|p11|Aleph(cow)|風元素|虛無之上
@@ -59,11 +58,11 @@
 |Hermit隱者|p20|Yod(hand)|處女|引領
 |Fortune命運|p21|Kaf(palm)|木星|秩序
 |Lust慾望|p19|Teth(snake)|獅子|靈魂本能
-|Hanged|Man吊人|p23|Mem(water)|水元素|救贖
+|Hanged Man吊人|p23|Mem(water)|水元素|救贖
 |Death死神|p24|Nun(Fish)|天蠍|腐敗新生
 |Art藝術|p25|Samekh(stakes)|射手|轉化
 |Devil惡魔|p26|Ayin(Eye)|魔羯|宏偉、頂點、終極
-|Tower塔|Pe(Mouth)|火星|毀滅
+|Tower塔|p27|Pe(Mouth)|火星|毀滅
 |Star星|p15|He(Window)|水瓶|安息
 |Moom月|p29|Qoph(hindbrain)|雙魚|探索
 |Sun太陽|p30|Resh(head)|太陽|解放
