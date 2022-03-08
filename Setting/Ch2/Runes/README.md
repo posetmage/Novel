@@ -5,6 +5,7 @@
 *看我粉碎 原始寂靜*  
 <p align="right"><i>−−《魔術士歐菲》</i></p>
 
+# Runes 盧恩符文
 
 ## 強化武器
 使用盧恩符文中的k + a，其意涵為火炬+諸神  
@@ -58,8 +59,8 @@ UCS|Trans-literation|Meaning
 ᛞ | d | day
 
 上一篇[卡巴拉樹](../Kabbalah) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-2-documentation) ,
-下一篇[塔羅牌陣](https://partiallyorderedmagic.github.io/Setting/Ch2/Tarot)
+回到[目錄](../../../#ch-2-documentation) ,
+下一篇[鍊金術](../Tarot)
 
 
 <p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
