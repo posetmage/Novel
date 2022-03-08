@@ -18,12 +18,14 @@
 
 ## Ch 2: Documentation
 散落在世界各處的文件，偶爾會看到一些有趣的內容  
-  * [雜文](Setting/Ch2/Docs)
+  * [卡巴拉樹](Setting/Ch2/Kabbalah)
   * [盧恩符文](Setting/Ch2/Runes)
+  * [鍊金術](Setting/Ch2/Alchemy)  
   * [塔羅牌陣](Setting/Ch2/Tarot)
   * [脈輪](Setting/Ch2/Cakra)
   * [元素精靈](Setting/Ch2/Elementals)
   * [經絡](Setting/Ch2/Meridian)
+  * [雜文](Setting/Ch2/Docs)
 
 ## Ch 3: God View 
 此章節為遊戲真實設定，因為是上帝視角的系統化資料，不像之前的Ch1, Ch2內容僅能透過考據推論的  
