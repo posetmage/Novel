@@ -57,7 +57,7 @@ UCS|Trans-literation|Meaning
 ᛟ | o | heritage, estate, possession
 ᛞ | d | day
 
-上一篇[雜文](https://partiallyorderedmagic.github.io/Setting/Ch2/Docs) ,
+上一篇[卡巴拉樹](../Kabbalah) ,
 回到[目錄](https://partiallyorderedmagic.github.io/#ch-2-documentation) ,
 下一篇[塔羅牌陣](https://partiallyorderedmagic.github.io/Setting/Ch2/Tarot)
 
