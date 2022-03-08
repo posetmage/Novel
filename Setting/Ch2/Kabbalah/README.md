@@ -8,38 +8,32 @@
 8 Hod - "Splendour"  
 9 Yesod - "Foundation“  
 0 Malkuth - "Kingship”  
- 	א‎ 	ב‎ 	ג‎ 	ד‎ 	ה‎ 	ו‎ 	ז‎ 	ח‎ 	ט‎ 	י‎ 	ך‎ 	כ‎ 	ל‎ 	ם‎ 	מ‎ 	ן‎
-U+05Ex 	נ‎ 	ס‎ 	ע‎ 	ף‎ 	פ‎ 	ץ‎ 	צ‎ 	ק‎ 	ר‎ 	ש‎ 	ת‎ 					ׯ‎   
+ 	א‎ 	ב‎ 	ג‎ 	ד‎ 	ה‎ 	ו‎ 	ז‎ 	ח‎ 	ט‎ 	י‎ 	ך‎ 	כ‎ 	ל‎ 	ם‎ 	מ‎ 	ן‎U+05Ex 	נ‎ 	ס‎ 	ע‎ 	ף‎ 	פ‎ 	ץ‎ 	צ‎ 	ק‎ 	ר‎ 	ש‎ 	ת‎ 					ׯ‎   
 
   
-א (1)Alef - father   
-ב (2)Bet - house  
-ג (3)Gimel - camel  
-ד (4)Dalet - bear  
-ה (5)He - emigrated  
-ו (6)Vav - rose   
-ז (7)Zayin - male  
-ח (8)Het - rope  
-ט (9)Tet - cook   
-י (10)Yod - hand  
-כ (11)Kaf - star  
-ל (12)Lamed - tongue  
-מ (13)Mem - water  
-נ (14)Nun - prophet  
-ס  (15)Samekh - sugar  
-ע (16)Ayin - raven  
-פ (17)Pe - coal  
-צ (18)Tsadi - shadow, screamed,laughed  
-ק*(19)Qof - tomb  
-ר (20)Resh - leg  
-ש (21)Shin - sky  
-ת (22)Tav - palm  
+(1)Alef - father   
+(2)Bet - house  
+(3)Gimel - camel  
+(4)Dalet - bear  
+(5)He - emigrated  
+(6)Vav - rose   
+(7)Zayin - male  
+(8)Het - rope  
+(9)Tet - cook   
+(10)Yod - hand  
+(11)Kaf - star  
+(12)Lamed - tongue  
+(13)Mem - water  
+(14)Nun - prophet  
+(15)Samekh - sugar  
+(16)Ayin - raven  
+(17)Pe - coal  
+(18)Tsadi - shadow, screamed,laughed  
+(19)Qof - tomb  
+(20)Resh - leg  
+(21)Shin - sky  
+(22)Tav - palm  
 
-Aries ♈️
-Taurus ♉️
-Gemini ♊️
-Cancer ♋️
-Leo ♌️
 Virgo ♍️
 Libra ♎️
 Scorpio ♏️
