@@ -2,7 +2,7 @@
 
 <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Kabbalah/Kabbalah.svg" Width="400" />  
 
-* 有十個質點(Sefirot)
+* 質點(Sefirot)
   * 1 Keter - "Crown"  
   * 2 Chokhmah - "Wisdom"  
   * 3 Binah - "Understanding"  
