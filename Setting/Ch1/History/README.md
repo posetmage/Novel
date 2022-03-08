@@ -23,7 +23,7 @@
 
 
 上一篇[圖書館抄書](../Manuscript) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-1-world-setting) ,
+回到[目錄](../../../#ch-1-world-setting) ,
 下一章節[卡巴拉樹](../../Ch2/Kabbalah)
 
 
