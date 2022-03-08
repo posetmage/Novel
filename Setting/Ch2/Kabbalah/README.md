@@ -1,3 +1,8 @@
+# Tree of life (Kabbalah)
+
+<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Kabbalah/Kabbalah.svg" Width="300" />  
+
+有十個質點(Sefirot)
 1 Keter - "Crown"  
 2 Chokhmah - "Wisdom"  
 3 Binah - "Understanding"  
@@ -9,7 +14,7 @@
 9 Yesod - "Foundation“  
 0 Malkuth - "Kingship”  
 
-
+22個通道對應希伯來字母
 (1)Alef - father   
 (2)Bet - house  
 (3)Gimel - camel  
