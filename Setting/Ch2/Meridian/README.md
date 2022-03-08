@@ -33,9 +33,9 @@
 ### 草藥學
 沒有任何一帖藥能走奇經八脈，要修復受損的奇經八脈只能練氣功
 
-上一篇[元素精靈](https://partiallyorderedmagic.github.io/Setting/Ch2/Elementals) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-2-documentation) ,
-下一章節[宇宙結構](https://partiallyorderedmagic.github.io/Setting/Ch3/Universe) 
+上一篇[元素精靈](../Elementals) ,
+回到[目錄](../../../#ch-2-documentation) ,
+下一篇[雜文](../Docs) 
 
 
 <p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
