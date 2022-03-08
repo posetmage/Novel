@@ -26,9 +26,9 @@
 美安：「太棒了我要吃布丁」   
 聽到快速地跑步聲音，歐姆心想這未免太沒有貴族的風範了。   
 
-上一篇[某商人的第一次占卜](https://partiallyorderedmagic.github.io/Setting/Ch1/Divination/) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-1-world-setting) ,
-下一篇[戰術指南](https://partiallyorderedmagic.github.io/Setting/Ch1/Tactics)
+上一篇[某商人的第一次占卜](../Divination/) ,
+回到[目錄](../../#ch-1-world-setting) ,
+下一篇[戰術指南](../Tactics)
 
 
 
