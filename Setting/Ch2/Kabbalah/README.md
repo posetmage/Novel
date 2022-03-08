@@ -43,6 +43,7 @@
 
 ## 托特塔羅版本
 <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Kabbalah/Kabbalah-Thoth.svg" Width="400" />  
+
 * 對應塔羅牌
   * Fool 愚者p11 Aleph(cow) 風元素 虛無之上 
   * MAGUS 魔法師p12 Beth(house) 水星 全知全 
