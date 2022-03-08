@@ -32,9 +32,9 @@
 可別傻傻地以為開到公海只有飛空艇註冊的國家可以抓罪犯，在中立地帶的法則是冒險者警備隊有抓罪犯的權利，再由國際法庭引渡，畢竟浮空島界有相當發達的通訊技術要跟各國溝通可是相當快的，就算躲避了冒險者抓捕也會快速被通緝。   
 *−−雪莉．法蘭《世界長這樣？》*  
 
-上一篇[某商人的日記](https://partiallyorderedmagic.github.io/Setting/Ch1/Diary) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-1-world-setting) ,
-下一篇[圖書館抄書](https://partiallyorderedmagic.github.io/Setting/Ch1/Manuscript)
+上一篇[某商人的日記](../Diary) ,
+回到[目錄](../../../#ch-1-world-setting) ,
+下一篇[圖書館抄書](../Manuscript)
 
 
 
