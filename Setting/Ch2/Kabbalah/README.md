@@ -1,3 +1,6 @@
+*有能力者的不自覺是對無能力者的諷刺*  
+<p align="right"><i>−−《冰菓》</i></p>
+
 # Tree of life (Kabbalah)
 
 <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Kabbalah/Kabbalah.svg" Width="400" />  
