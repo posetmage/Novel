@@ -62,9 +62,9 @@
 占卜師：「接著我們來做跟寵物對話的八芒星占卜。 」   
 
 
-上一篇[物理學 - Entropy](https://partiallyorderedmagic.github.io/Setting/Ch1/Entropy/) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-1-world-setting) ,
-下一篇[家教課](https://partiallyorderedmagic.github.io/Setting/Ch1/Tuition)
+上一篇[物理學 - Entropy](../Entropy/) ,
+回到[目錄](../../#ch-1-world-setting) ,
+下一篇[家教課](../Tuition)
 
 
 
