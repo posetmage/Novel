@@ -7,8 +7,8 @@
    viewBox="0 0 217.77715 407.9411"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="Kabbalah-Thoth.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,9 +28,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.32"
-     inkscape:cx="295.3125"
-     inkscape:cy="626.5625"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="156.88932"
+     inkscape:cy="793.28542"
      inkscape:window-width="1288"
      inkscape:window-height="745"
      inkscape:window-x="-8"
@@ -65,6 +65,26 @@
          width="19050"
          height="25400"
          id="rect510" />
+    </clipPath>
+    <clipPath
+       id="presentation_clip_path-4"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         x="0"
+         y="0"
+         width="19050"
+         height="25400"
+         id="rect2-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath556"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         x="0"
+         y="0"
+         width="19050"
+         height="25400"
+         id="rect554" />
     </clipPath>
   </defs>
   <g
@@ -1788,29 +1808,45 @@
       </g>
     </g>
     <g
+       class="DummySlide"
+       id="g242"
+       transform="matrix(0.01650605,0,0,0.01650605,-18.040376,-52.120718)">
+      <g
+         id="g240">
+        <g
+           id="dummy-slide-6"
+           class="Slide"
+           clip-path="url(#presentation_clip_path-4)">
+          <g
+             ooo:name="dummy-page"
+             class="Page"
+             id="g237" />
+        </g>
+      </g>
+    </g>
+    <g
        class="SlideGroup"
-       id="g494"
-       transform="matrix(0.24172003,0,0,0.24172003,-2430.9055,-2781.147)">
+       id="g538"
+       transform="matrix(0.01650605,0,0,0.01650605,-18.040376,-52.120718)">
       <g
          visibility="hidden"
-         id="g492"
-         transform="matrix(0.06844875,0,0,0.06844875,9970.7859,11282.644)">
+         id="g536">
         <g
            id="container-id1">
           <g
              id="id1"
              class="Slide"
-             clip-path="url(#presentation_clip_path)">
+             clip-path="url(#presentation_clip_path-4)">
             <g
                ooo:name="page1"
                class="Page"
-               id="g488">
+               id="g532">
               <g
                  class="Group"
-                 id="g486">
+                 id="g530">
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g211">
+                   id="g255">
                   <g
                      id="id8">
                     <rect
@@ -1821,673 +1857,673 @@
                        y="2381"
                        width="1016"
                        height="1099"
-                       id="rect200" />
+                       id="rect244" />
                     <text
                        class="TextShape"
-                       id="text208-4"><tspan
+                       id="text252"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan206-6"><tspan
+                         id="tspan250"><tspan
                            class="TextPosition"
                            x="13897"
                            y="3212"
-                           id="tspan204-7"><tspan
+                           id="tspan248-2"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan202">א</tspan></tspan></tspan></text>
+                             id="tspan246-1">א</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g224">
+                   id="g268">
                   <g
                      id="id9">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="9917"
+                       x="9915"
                        y="2580"
-                       width="932"
+                       width="936"
                        height="1099"
-                       id="rect213" />
+                       id="rect257" />
                     <text
                        class="TextShape"
-                       id="text221"><tspan
+                       id="text265"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan219"><tspan
+                         id="tspan263"><tspan
                            class="TextPosition"
-                           x="10167"
+                           x="10165"
                            y="3411"
-                           id="tspan217"><tspan
+                           id="tspan261"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan215">ב</tspan></tspan></tspan></text>
+                             id="tspan259">ב</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g237">
+                   id="g281">
                   <g
                      id="id10">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="11913"
+                       x="11911"
                        y="3175"
-                       width="822"
+                       width="826"
                        height="1099"
-                       id="rect226" />
+                       id="rect270" />
                     <text
                        class="TextShape"
-                       id="text234"><tspan
+                       id="text278"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan232"><tspan
+                         id="tspan276-8"><tspan
                            class="TextPosition"
-                           x="12163"
+                           x="12161"
                            y="4006"
-                           id="tspan230-2"><tspan
+                           id="tspan274"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan228-2">ג</tspan></tspan></tspan></text>
+                             id="tspan272-5">ג</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g250">
+                   id="g294">
                   <g
                      id="id11">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="8726"
+                       x="8722"
                        y="4842"
-                       width="915"
+                       width="923"
                        height="1099"
-                       id="rect239" />
+                       id="rect283" />
                     <text
                        class="TextShape"
-                       id="text247"><tspan
+                       id="text291"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan245"><tspan
+                         id="tspan289"><tspan
                            class="TextPosition"
-                           x="8976"
+                           x="8972"
                            y="5673"
-                           id="tspan243"><tspan
+                           id="tspan287"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan241">ד</tspan></tspan></tspan></text>
+                             id="tspan285">ד</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g263">
+                   id="g307">
                   <g
                      id="id12">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="15239"
+                       x="15235"
                        y="17264"
-                       width="961"
+                       width="966"
                        height="1099"
-                       id="rect252" />
+                       id="rect296" />
                     <text
                        class="TextShape"
-                       id="text260"><tspan
+                       id="text304-3"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan258-2"><tspan
+                         id="tspan302-7"><tspan
                            class="TextPosition"
-                           x="15489"
+                           x="15485"
                            y="18095"
-                           id="tspan256"><tspan
+                           id="tspan300-4"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan254-9">צ</tspan></tspan></tspan></text>
+                             id="tspan298">צ</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g276">
+                   id="g320">
                   <g
                      id="id13">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="17076"
+                       x="17071"
                        y="6350"
-                       width="741"
+                       width="750"
                        height="1099"
-                       id="rect265" />
+                       id="rect309" />
                     <text
                        class="TextShape"
-                       id="text273"><tspan
+                       id="text317"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan271"><tspan
+                         id="tspan315"><tspan
                            class="TextPosition"
-                           x="17326"
+                           x="17321"
                            y="7181"
-                           id="tspan269"><tspan
+                           id="tspan313"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan267">ו</tspan></tspan></tspan></text>
+                             id="tspan311">ו</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g289">
+                   id="g333">
                   <g
                      id="id14">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="7932"
+                       x="7930"
                        y="6152"
-                       width="788"
+                       width="792"
                        height="1099"
-                       id="rect278" />
+                       id="rect322" />
                     <text
                        class="TextShape"
-                       id="text286-0"><tspan
+                       id="text330"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan284-7"><tspan
+                         id="tspan328"><tspan
                            class="TextPosition"
-                           x="8182"
+                           x="8180"
                            y="6983"
-                           id="tspan282-3"><tspan
+                           id="tspan326-2"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan280">ז</tspan></tspan></tspan></text>
+                             id="tspan324-4">ז</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g302">
+                   id="g346">
                   <g
                      id="id15">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="6731"
+                       x="6721"
                        y="6548"
-                       width="987"
+                       width="1004"
                        height="1099"
-                       id="rect291" />
+                       id="rect335" />
                     <text
                        class="TextShape"
-                       id="text299"><tspan
+                       id="text343"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan297"><tspan
+                         id="tspan341"><tspan
                            class="TextPosition"
-                           x="6981"
+                           x="6971"
                            y="7379"
-                           id="tspan295"><tspan
+                           id="tspan339"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan293">ח</tspan></tspan></tspan></text>
+                             id="tspan337">ח</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g315">
+                   id="g359">
                   <g
                      id="id16">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="8430"
+                       x="8428"
                        y="10716"
-                       width="928"
+                       width="932"
                        height="1099"
-                       id="rect304" />
+                       id="rect348" />
                     <text
                        class="TextShape"
-                       id="text312"><tspan
+                       id="text356"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan310"><tspan
+                         id="tspan354-8"><tspan
                            class="TextPosition"
-                           x="8680"
+                           x="8678"
                            y="11547"
-                           id="tspan308-0"><tspan
+                           id="tspan352"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan306-2">ל</tspan></tspan></tspan></text>
+                             id="tspan350-5">ל</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g328">
+                   id="g372">
                   <g
                      id="id17">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="15280"
+                       x="15276"
                        y="10319"
-                       width="709"
+                       width="716"
                        height="1099"
-                       id="rect317" />
+                       id="rect361" />
                     <text
                        class="TextShape"
-                       id="text325"><tspan
+                       id="text369"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan323"><tspan
+                         id="tspan367"><tspan
                            class="TextPosition"
-                           x="15530"
+                           x="15526"
                            y="11150"
-                           id="tspan321"><tspan
+                           id="tspan365"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan319">י</tspan></tspan></tspan></text>
+                             id="tspan363">י</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g341">
+                   id="g385">
                   <g
                      id="id18">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="8522"
+                       x="8511"
                        y="9525"
-                       width="978"
+                       width="1000"
                        height="1099"
-                       id="rect330" />
+                       id="rect374" />
                     <text
                        class="TextShape"
-                       id="text338"><tspan
+                       id="text382-8"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan336-5"><tspan
+                         id="tspan380-3"><tspan
                            class="TextPosition"
-                           x="8772"
+                           x="8761"
                            y="10356"
-                           id="tspan334"><tspan
+                           id="tspan378-5"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan332-0">ט</tspan></tspan></tspan></text>
+                             id="tspan376">ט</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g354">
+                   id="g398">
                   <g
                      id="id19">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="6722"
+                       x="6714"
                        y="12105"
-                       width="1012"
+                       width="1029"
                        height="1099"
-                       id="rect343" />
+                       id="rect387" />
                     <text
                        class="TextShape"
-                       id="text351"><tspan
+                       id="text395"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan349"><tspan
+                         id="tspan393"><tspan
                            class="TextPosition"
-                           x="6972"
+                           x="6964"
                            y="12936"
-                           id="tspan347"><tspan
+                           id="tspan391"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan345">מ</tspan></tspan></tspan></text>
+                             id="tspan389">מ</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g367">
+                   id="g411">
                   <g
                      id="id20">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="13477"
+                       x="13475"
                        y="13494"
-                       width="822"
+                       width="826"
                        height="1099"
-                       id="rect356" />
+                       id="rect400" />
                     <text
                        class="TextShape"
-                       id="text364-3"><tspan
+                       id="text408"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan362-2"><tspan
+                         id="tspan406"><tspan
                            class="TextPosition"
-                           x="13727"
+                           x="13725"
                            y="14325"
-                           id="tspan360-5"><tspan
+                           id="tspan404-6"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan358">נ</tspan></tspan></tspan></text>
+                             id="tspan402-5">נ</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g380">
+                   id="g424">
                   <g
                      id="id21">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="11889"
+                       x="11883"
                        y="14288"
-                       width="983"
+                       width="995"
                        height="1099"
-                       id="rect369" />
+                       id="rect413" />
                     <text
                        class="TextShape"
-                       id="text377"><tspan
+                       id="text421"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan375"><tspan
+                         id="tspan419"><tspan
                            class="TextPosition"
-                           x="12139"
+                           x="12133"
                            y="15119"
-                           id="tspan373"><tspan
+                           id="tspan417"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan371">ס</tspan></tspan></tspan></text>
+                             id="tspan415">ס</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g393">
+                   id="g437">
                   <g
                      id="id22">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="10481"
+                       x="10476"
                        y="13692"
-                       width="970"
+                       width="983"
                        height="1099"
-                       id="rect382" />
+                       id="rect426" />
                     <text
                        class="TextShape"
-                       id="text390"><tspan
+                       id="text434"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan388"><tspan
+                         id="tspan432-4"><tspan
                            class="TextPosition"
-                           x="10731"
+                           x="10726"
                            y="14523"
-                           id="tspan386-4"><tspan
+                           id="tspan430"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan384-1">ע</tspan></tspan></tspan></text>
+                             id="tspan428-0">ע</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g406">
+                   id="g450">
                   <g
                      id="id23">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="8713"
+                       x="8706"
                        y="15875"
-                       width="966"
+                       width="983"
                        height="1099"
-                       id="rect395" />
+                       id="rect439" />
                     <text
                        class="TextShape"
-                       id="text403"><tspan
+                       id="text447"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan401"><tspan
+                         id="tspan445"><tspan
                            class="TextPosition"
-                           x="8963"
+                           x="8956"
                            y="16706"
-                           id="tspan399"><tspan
+                           id="tspan443"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan397">פ</tspan></tspan></tspan></text>
+                             id="tspan441">פ</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g419">
+                   id="g463">
                   <g
                      id="id24">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="15856"
+                       x="15854"
                        y="6350"
-                       width="987"
+                       width="991"
                        height="1099"
-                       id="rect408" />
+                       id="rect452" />
                     <text
                        class="TextShape"
-                       id="text416"><tspan
+                       id="text460-2"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan414-4"><tspan
+                         id="tspan458-5"><tspan
                            class="TextPosition"
-                           x="16106"
+                           x="16104"
                            y="7181"
-                           id="tspan412"><tspan
+                           id="tspan456-3"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan410-1">ה</tspan></tspan></tspan></text>
+                             id="tspan454">ה</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g432">
+                   id="g476">
                   <g
                      id="id25">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="15826"
+                       x="15824"
                        y="17859"
-                       width="1021"
+                       width="1025"
                        height="1099"
-                       id="rect421" />
+                       id="rect465" />
                     <text
                        class="TextShape"
-                       id="text429"><tspan
+                       id="text473"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan427"><tspan
+                         id="tspan471"><tspan
                            class="TextPosition"
-                           x="16076"
+                           x="16074"
                            y="18690"
-                           id="tspan425"><tspan
+                           id="tspan469"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan423">ק</tspan></tspan></tspan></text>
+                             id="tspan467">ק</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g445">
+                   id="g489">
                   <g
                      id="id26">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="8113"
+                       x="8111"
                        y="17066"
-                       width="928"
+                       width="932"
                        height="1099"
-                       id="rect434" />
+                       id="rect478" />
                     <text
                        class="TextShape"
-                       id="text442-2"><tspan
+                       id="text486"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan440-2"><tspan
+                         id="tspan484"><tspan
                            class="TextPosition"
-                           x="8363"
+                           x="8361"
                            y="17897"
-                           id="tspan438-5"><tspan
+                           id="tspan482-3"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan436">ר</tspan></tspan></tspan></text>
+                             id="tspan480-0">ר</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g458">
+                   id="g502">
                   <g
                      id="id27">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="7928"
+                       x="7918"
                        y="18058"
-                       width="1038"
+                       width="1059"
                        height="1099"
-                       id="rect447" />
+                       id="rect491" />
                     <text
                        class="TextShape"
-                       id="text455"><tspan
+                       id="text499"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan453"><tspan
+                         id="tspan497"><tspan
                            class="TextPosition"
-                           x="8178"
+                           x="8168"
                            y="18889"
-                           id="tspan451"><tspan
+                           id="tspan495"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan449">ש</tspan></tspan></tspan></text>
+                             id="tspan493">ש</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g471">
+                   id="g515">
                   <g
                      id="id28">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="11888"
+                       x="11881"
                        y="21034"
-                       width="987"
+                       width="1000"
                        height="1099"
-                       id="rect460" />
+                       id="rect504" />
                     <text
                        class="TextShape"
-                       id="text468"><tspan
+                       id="text512"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan466"><tspan
+                         id="tspan510-0"><tspan
                            class="TextPosition"
-                           x="12138"
+                           x="12131"
                            y="21865"
-                           id="tspan464-8"><tspan
+                           id="tspan508"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan462-3">ת</tspan></tspan></tspan></text>
+                             id="tspan506-1">ת</tspan></tspan></tspan></text>
                   </g>
                 </g>
                 <g
                    class="com.sun.star.drawing.CustomShape"
-                   id="g484">
+                   id="g528">
                   <g
                      id="id29">
                     <rect
                        class="BoundingBox"
                        stroke="none"
                        fill="none"
-                       x="16848"
+                       x="16846"
                        y="11985"
-                       width="902"
+                       width="906"
                        height="1099"
-                       id="rect473" />
+                       id="rect517" />
                     <text
                        class="TextShape"
-                       id="text481"><tspan
+                       id="text525"><tspan
                          class="TextParagraph"
-                         font-family="'Noto Sans Devanagari', sans-serif"
+                         font-family="'DejaVu Sans', sans-serif"
                          font-size="706px"
                          font-weight="700"
-                         id="tspan479"><tspan
+                         id="tspan523"><tspan
                            class="TextPosition"
-                           x="17098"
+                           x="17096"
                            y="12816"
-                           id="tspan477"><tspan
+                           id="tspan521"><tspan
                              fill="#000000"
                              stroke="none"
-                             id="tspan475">כ</tspan></tspan></tspan></text>
+                             id="tspan519">כ</tspan></tspan></tspan></text>
                   </g>
                 </g>
               </g>
