@@ -33,9 +33,9 @@
 *−−《長年旅居三界商人的日記》*  
 
 
-上一篇[戰術指南](https://partiallyorderedmagic.github.io/Setting/Ch1/Tactics) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-1-world-setting) ,
-下一篇[世界地圖](https://partiallyorderedmagic.github.io/Setting/Ch1/WorldMap)
+上一篇[戰術指南](../Tactics) ,
+回到[目錄](../../../#ch-1-world-setting) ,
+下一篇[世界地圖](../WorldMap)
 
 
 
