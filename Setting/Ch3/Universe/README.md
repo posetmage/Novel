@@ -21,9 +21,9 @@ Partially Ordered Magic的故事大部分發生在第二內圍。
 <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch3/Universe/SecondInside.svg" Width="250" />
 
 
-上一章節[經絡](https://partiallyorderedmagic.github.io/Setting/Ch2/Meridian) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-3-god-view) ,
-下一篇[一般結構](https://partiallyorderedmagic.github.io/Setting/Ch3/General)
+上一章節[雜文](../../Ch2/Meridian) ,
+回到[目錄](../../../#ch-3-god-view) ,
+下一篇[一般結構](../General)
 
 
 <p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM entertainment <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
