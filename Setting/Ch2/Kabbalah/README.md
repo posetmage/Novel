@@ -8,9 +8,8 @@
 8 Hod - "Splendour"  
 9 Yesod - "Foundation“  
 0 Malkuth - "Kingship”  
- 	א‎ 	ב‎ 	ג‎ 	ד‎ 	ה‎ 	ו‎ 	ז‎ 	ח‎ 	ט‎ 	י‎ 	ך‎ 	כ‎ 	ל‎ 	ם‎ 	מ‎ 	ן‎U+05Ex 	נ‎ 	ס‎ 	ע‎ 	ף‎ 	פ‎ 	ץ‎ 	צ‎ 	ק‎ 	ר‎ 	ש‎ 	ת‎ 					ׯ‎   
 
-  
+   	א‎ 	ב‎ 	ג‎ 	ד‎ 	ה‎ 	ו‎ 	ז‎ 	ח‎ 	ט‎ 	י‎ 	ך‎ 	כ‎ 	ל‎ 	ם‎ 	מ‎ 	ן‎ 	נ‎ 	ס‎ 	ע‎ 	ף‎ 	פ‎ 	ץ‎ 	צ‎ 	ק‎ 	ר‎ 	ש‎ 	ת‎ 					ׯ‎   
 (1)Alef - father   
 (2)Bet - house  
 (3)Gimel - camel  
