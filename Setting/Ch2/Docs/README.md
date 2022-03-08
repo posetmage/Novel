@@ -46,13 +46,6 @@ Documentation
 由於大型技能會影響大範圍的區域造成Entropy值快速增加，最好是把大型技能當作最後一發的魔法使用，一但放完可能雙方都要進入普通攻擊狀態，對於騎士團這種擅長進戰的軍隊似乎效果相當差。  
 ## Documentation
 傳送的方式使用傳送卷軸，或者遁地術和傳送速都可以做到。就算都沒有這些技能，也可以購買車票搭乘交通工具。交通工具好處是便宜，缺點是只能到固定的地點，如果想要到達任意地點，則可以跟專門販賣傳送的商人尋找門路，當然價格不菲也是其代價。  
-## Documentation
-卡巴拉，又稱生命之樹(Tree of life) ，似乎有兩個版本  
-<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Docs/kabbalah1.svg" Width="300" />  
-
-## Documentation
-卡巴拉，又稱生命之樹(Tree of life) ，似乎有兩個版本  
-<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Docs/kabbalah2.svg" Width="300" />  
 
 上一章節[歷史課](https://partiallyorderedmagic.github.io/Setting/Ch1/History) ,
 回到[目錄](https://partiallyorderedmagic.github.io/#ch-2-documentation) ,
