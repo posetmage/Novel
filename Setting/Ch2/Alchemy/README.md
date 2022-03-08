@@ -1,3 +1,7 @@
+*無限接近於零，卻又不等於零的可能性*  
+<p align="right"><i>−−《遊戲人生》</i></p>
+
+
 Month 🝱  
 Day 🝰  
 Hour 🝮  
