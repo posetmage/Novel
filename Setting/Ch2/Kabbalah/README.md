@@ -37,3 +37,8 @@
   * (20)Resh - leg  
   * (21)Shin - sky  
   * (22)Tav - palm  
+
+上一章節[歷史課](../../Ch1/History) ,
+回到[目錄](https://partiallyorderedmagic.github.io/#ch-2-documentation) ,
+下一篇[盧恩符文](../Runes) 
+
