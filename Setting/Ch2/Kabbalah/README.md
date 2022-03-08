@@ -44,7 +44,7 @@
 ## 托特塔羅版本
 <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Kabbalah/Kabbalah-Thoth.svg" Width="400" />  
 
-* 對應塔羅牌
+
 |塔羅|卡巴拉|希伯來文|占星|牌義|
 |-|-|-|-|-|
 |Fool愚者|p11|Aleph(cow)|風元素|虛無之上
