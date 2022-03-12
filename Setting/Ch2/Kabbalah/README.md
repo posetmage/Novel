@@ -18,7 +18,7 @@
   * 9 Yesod - "Foundation“  
   * 10 Malkuth - "Kingship”  
 
-|塔羅|卡巴拉通道|希伯來文|占星|牌義|
+|塔羅|卡巴拉通道|希伯來字母|占星|牌義|
 |-|-|-|-|-|
 |Fool愚者|11|Aleph(cow)|風元素|虛無之上
 |MAGUS魔法師|12|Beth(house)|水星|全知全能
