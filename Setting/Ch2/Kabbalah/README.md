@@ -12,7 +12,7 @@
 |MAGUS魔法師|12|Beth(house)|水星|全知全能
 |Priestess女祭司|13|Gimel(camel)|月亮|跨越深淵、永恆、啟蒙
 |Empress皇后|14|Dalet(Gate)|金星|創造
-|Emperor國王|28|Tsaddi(hook)|牡羊|狂野|勝利
+|Emperor國王|28|Tsaddi(hook)|牡羊|狂野 勝利
 |Hierophant大祭司|16|Vau(nail)|金牛|守護、靈性
 |Lovers戀人|17|Zain(sword)|雙子|溶解、凝結
 |Chariot戰車|18|Cheth(fence)|巨蟹|高貴博愛
