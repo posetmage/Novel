@@ -44,6 +44,8 @@
 |Universe宇宙|32|Tau(Cross)|土星|循環
 
 
+## 原始版本卡巴拉
+<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch2/Kabbalah/Kabbalah.svg" Width="400" /> 
 
 
 上一章節[歷史課](../../Ch1/History) ,
