@@ -15,7 +15,7 @@ https://cc0.wfublog.com/
 ## 免費商用音樂庫
 《魔王魂》
 
-上一篇[PosetMage由來](/Setting/Appendix/PosetMage), 
+上一篇[PosetMage由來](../PosetMage), 
 回到[目錄](/#appendix)
 
 

@@ -29,12 +29,12 @@
 火 Salamander 召喚 - 戰場增加魔法隊友  
 
 ## 魔法技能樹
-<img src="/Setting/Ch3/Element/ElementSkillTree.svg" Width="350" />
+<img src="./ElementSkillTree.svg" Width="350" />
 
 
-上一篇[科技技能](/Setting/Ch3/Technology), 
+上一篇[科技技能](../Technology), 
 回到[目錄](/#ch-3-god-view), 
-下一篇[信仰技能](/Setting/Ch3/Faith)
+下一篇[信仰技能](../Faith)
 
 
 <p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

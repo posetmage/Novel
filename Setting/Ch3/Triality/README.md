@@ -9,7 +9,7 @@
 比如科技-元素-信仰(0.3,0.2,0.5)的角色  
 受到校正為科技1.7倍,信仰1.5倍  
 (0.0,0.0,1.0) 使用信仰技能則不會增加額外MP消耗  
-<img src="/Setting/Ch3/Triality/Triality.svg" Width="350" />
+<img src="./Triality.svg" Width="350" />
 
 ## 種族加成與三體系技能
 使用自身種族擅長的科技會有MP消耗減免，反之則會增加  
@@ -27,9 +27,9 @@ Dwarf-Human | -5%| 10%| -5%
 
 
 
-上一篇[人物狀態](/Setting/Ch3/Attribute), 
+上一篇[人物狀態](../Attribute), 
 回到[目錄](/#ch-3-god-view), 
-下一篇[科技技能](/Setting/Ch3/Technology)
+下一篇[科技技能](../Technology)
 
 
 <p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

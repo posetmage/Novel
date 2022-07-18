@@ -13,17 +13,17 @@
 每個內圍世界有各自的運作法則，內圍世界之內各層遵循相同法則。  
 內圍世界之間有維度等級之分，高維度的內圍世界或許可以影響維度較低的內圍世界，低維度內圍世界幾乎不可能影響高維度的內圍世界。  
 
-<img src="/Setting/Ch3/Universe/Universe.svg" Height="300" />
+<img src="./Universe.svg" Height="300" />
 
 ### 第二內圍
 Partially Ordered Magic的故事大部分發生在第二內圍。  
 各世界之間通行的可能性實際上是如下圖：  
-<img src="/Setting/Ch3/Universe/SecondInside.svg" Width="250" />
+<img src="./SecondInside.svg" Width="250" />
 
 
-上一章節[雜文](/Setting/Ch2/Docs), 
+上一章節[雜文](../../Ch2/Docs), 
 回到[目錄](/#ch-3-god-view), 
-下一篇[一般結構](/Setting/Ch3/General)
+下一篇[一般結構](../General)
 
 
 <p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

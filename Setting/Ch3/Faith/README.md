@@ -26,12 +26,12 @@
 仙 阿修羅六合拳- 消耗hp/mp做遠距攻擊  
 
 ## 信仰技能樹
-<img src="/Setting/Ch3/Faith/FaithSkillTree.svg" Width="350" />
+<img src="./FaithSkillTree.svg" Width="350" />
 
 
-上一篇[元素技能](/Setting/Ch3/Element), 
+上一篇[元素技能](../Element), 
 回到[目錄](/#ch-3-god-view), 
-下一章節[PosetMage由來](/Setting/Appendix/PosetMage)
+下一章節[PosetMage由來](../../Appendix/PosetMage)
 
 
 <p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

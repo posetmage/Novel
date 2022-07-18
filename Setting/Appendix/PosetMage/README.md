@@ -44,9 +44,9 @@
  * 完成，當然要來畫個技能樹圖
    * <img src="/Icon/Evolution/012.png" Width="500" />
 
-上一章節[信仰技能](/Setting/Ch3/Faith), 
+上一章節[信仰技能](../../Ch3/Faith), 
 回到[目錄](/#appendix), 
-下一篇[其他工具](/Setting/Appendix/Tools) 
+下一篇[其他工具](../Tools) 
 
 
 <p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
