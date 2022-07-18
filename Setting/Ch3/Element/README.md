@@ -37,4 +37,4 @@
 下一篇[信仰技能](/Setting/Ch3/Faith)
 
 
-<p align="center"><img src="/../../../Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/../../../Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

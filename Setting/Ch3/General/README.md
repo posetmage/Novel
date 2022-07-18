@@ -14,9 +14,9 @@
 類似天空中的星體距離每顆都不一樣，但我們能大約畫出相對的視角。  
 
 
-上一篇[宇宙結構](https://partiallyorderedmagic.github.io/Setting/Ch3/Universe) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-3-god-view) ,
-下一章節[特殊結構](https://partiallyorderedmagic.github.io/Setting/Ch3/Peculiar)
+上一篇[宇宙結構](/Setting/Ch3/Universe), 
+回到[目錄](/#ch-3-god-view), 
+下一章節[特殊結構](/Setting/Ch3/Peculiar)
 
 
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

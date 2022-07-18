@@ -26,12 +26,12 @@
 械 自動人形 - 增加戰場一名隊員  
 
 ## 科技技能樹
-<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch3/Technology/TechSkillTree.svg" Width="350" />
+<img src="/Setting/Ch3/Technology/TechSkillTree.svg" Width="350" />
 
 
-上一篇[技能三向性](https://partiallyorderedmagic.github.io/Setting/Ch3/Triality) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#ch-3-god-view) ,
-下一篇[元素技能](https://partiallyorderedmagic.github.io/Setting/Ch3/Element)
+上一篇[技能三向性](/Setting/Ch3/Triality), 
+回到[目錄](/#ch-3-god-view), 
+下一篇[元素技能](/Setting/Ch3/Element)
 
 
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
