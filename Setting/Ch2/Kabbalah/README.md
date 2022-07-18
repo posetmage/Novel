@@ -4,7 +4,7 @@
 # Tree of life (Kabbalah)
 
 ## 托特塔羅版本卡巴拉
-<img src="/Setting/Ch2/Kabbalah/Kabbalah-Thoth.svg" Width="400" />  
+<img src="./Kabbalah-Thoth.svg" Width="400" />  
 
 * 質點(Sefirot)
   * 1 Keter - "Crown"  
@@ -44,9 +44,9 @@
 |Universe宇宙|32|Tau(Cross)|土星|循環
 
 
-上一章節[歷史課](/Setting/Ch1/History), 
+上一章節[歷史課](../../Ch1/History), 
 回到[目錄](/#ch-2-documentation), 
-下一篇[盧恩符文](/Setting/Ch2/Runes) 
+下一篇[盧恩符文](../Runes) 
 
 
-<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage1 <img src="/Icon/Transparent/POM.png" Height="32" /></p>
