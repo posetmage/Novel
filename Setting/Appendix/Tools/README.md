@@ -15,7 +15,7 @@ https://cc0.wfublog.com/
 ## 免費商用音樂庫
 《魔王魂》
 
-上一篇[POM由來](/../POM)
+上一篇[PosetMage由來](/Setting/Appendix/PosetMage)
 
 
 <p align="center"><img src="/../../../Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/../../../Icon/Transparent/POM.png" Height="32" /></p>

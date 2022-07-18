@@ -20,32 +20,32 @@
 
 ## ICON 演進歷史
  * Magic + partial order+地水火風四色
-   * <img src="/../../../Icon/Evolution/001.png" Width="30" />
+   * <img src="/Icon/Evolution/001.png" Width="30" />
  * 中心部分使用六角形當作魔法寶石
-   * <img src="/../../../Icon/Evolution/002.png" Width="30" />
+   * <img src="/Icon/Evolution/002.png" Width="30" />
  * 嘗試只用六角形魔法寶石
-   * <img src="/../../../Icon/Evolution/003.png" Width="30" />
+   * <img src="/Icon/Evolution/003.png" Width="30" />
  * 中空菱形當魔法寶石
-   * <img src="/../../../Icon/Evolution/004.png" Width="30" />
+   * <img src="/Icon/Evolution/004.png" Width="30" />
  * 改變比例
-   * <img src="/../../../Icon/Evolution/005.png" Width="30" />
+   * <img src="/Icon/Evolution/005.png" Width="30" />
  * 六角形魔法寶石、中空圓形
-   * <img src="/../../../Icon/Evolution/006.png" Width="30" />
+   * <img src="/Icon/Evolution/006.png" Width="30" />
  * 加回原本的箭頭
-   * <img src="/../../../Icon/Evolution/007.png" Width="30" />
+   * <img src="/Icon/Evolution/007.png" Width="30" />
  * 簡化改為中空菱形
-   * <img src="/../../../Icon/Evolution/008.png" Width="30" />
+   * <img src="/Icon/Evolution/008.png" Width="30" />
  * 捨棄箭頭的身體
-   * <img src="/../../../Icon/Evolution/009.png" Width="30" />
+   * <img src="/Icon/Evolution/009.png" Width="30" />
  * 隨意上個色
-   * <img src="/../../../Icon/Evolution/010.png" Width="30" />
+   * <img src="/Icon/Evolution/010.png" Width="30" />
  * 地水火風四色放到寶石位置
-   * <img src="/../../../Icon/Evolution/011.png" Width="30" />
+   * <img src="/Icon/Evolution/011.png" Width="30" />
  * 完成，當然要來畫個技能樹圖
-   * <img src="/../../../Icon/Evolution/012.png" Width="500" />
+   * <img src="/Icon/Evolution/012.png" Width="500" />
 
-上一章節[信仰技能](/../../../Setting/Ch3/Faith) ,
-下一篇[其他工具](/../Tools) 
+上一章節[信仰技能](/Setting/Ch3/Faith) ,
+下一篇[其他工具](/Setting/Appendix/Tools) 
 
 
-<p align="center"><img src="/../../../Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/../../../Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

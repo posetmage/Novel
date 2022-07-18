@@ -56,4 +56,4 @@
     * [QuantumNecro blogger](http://QuantumNecro.blogspot.com/)
     * [QuantumNecro youtube](https://www.youtube.com/channel/UCQhCYqt0yghYYOx2lysvjaQ)
 
-<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" />PosetMage<img src="/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
