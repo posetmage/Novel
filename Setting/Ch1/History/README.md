@@ -22,9 +22,9 @@
 *−−伊恩．布魯《歷史學導論》*
 
 
-上一篇[圖書館抄書](../Manuscript) ,
-回到[目錄](../../../#ch-1-world-setting) ,
+上一篇[圖書館抄書](../Manuscript),
+回到[目錄](../../../#ch-1-world-setting),
 下一章節[卡巴拉樹](../../Ch2/Kabbalah)
 
 
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="../../../Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="../../../Icon/Transparent/POM.png" Height="32" /></p>

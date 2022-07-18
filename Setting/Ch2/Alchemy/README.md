@@ -59,6 +59,9 @@ Vinegar (distilled) 🜋 (Distilled vinegar symbol.svg)
 Vitriol (sulfates) 🜖 (Vitriol symbol.svg)[9]  
 Brimstone[10] (archaic name for sulfur) 🜏 (Black sulfur symbol (fixed width).svg), or Black sulphur[citation needed] (residue from sublimation of sulfur)
 
-上一篇[盧恩符文](../Runes) ,
-回到[目錄](../../../#ch-2-documentation) ,
-下一篇[塔羅牌陣](../Tarot)
+上一篇[盧恩符文](/Setting/Ch2/Runes), 
+回到[目錄](/#ch-2-documentation), 
+下一篇[塔羅牌陣](/Setting/Ch2/Tarot)
+
+
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

@@ -9,7 +9,7 @@
 比如科技-元素-信仰(0.3,0.2,0.5)的角色  
 受到校正為科技1.7倍,信仰1.5倍  
 (0.0,0.0,1.0) 使用信仰技能則不會增加額外MP消耗  
-<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch3/Triality/Triality.svg" Width="350" />
+<img src="/Setting/Ch3/Triality/Triality.svg" Width="350" />
 
 ## 種族加成與三體系技能
 使用自身種族擅長的科技會有MP消耗減免，反之則會增加  

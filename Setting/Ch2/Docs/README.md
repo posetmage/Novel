@@ -47,9 +47,9 @@ Documentation
 ## Documentation
 傳送的方式使用傳送卷軸，或者遁地術和傳送速都可以做到。就算都沒有這些技能，也可以購買車票搭乘交通工具。交通工具好處是便宜，缺點是只能到固定的地點，如果想要到達任意地點，則可以跟專門販賣傳送的商人尋找門路，當然價格不菲也是其代價。  
 
-上一篇[經絡](../Meridian) ,
-回到[目錄](../../../#ch-2-documentation) ,
-下一章節[宇宙結構](../../Ch3/Universe) 
+上一篇[經絡](/Setting/Ch2/Meridian) ,
+回到[目錄](/#ch-2-documentation) ,
+下一章節[宇宙結構](/Setting/Ch3/Universe) 
 
 
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
