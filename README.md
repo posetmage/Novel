@@ -4,7 +4,7 @@
 *奇跡不是免費的，如果你祈求了希望，也會散播出同等的絕望。*  
 <p align="right"><i>−−佐倉杏子《魔法少女小圓》</i></p>
 
-# Partially Ordered Magic Handbook
+# PosetMage Handbook
 ## Ch 1: World Setting
 發生在這個世界的故事  
   * [大一統理論：Entropy](Setting/Ch1/Entropy/)
@@ -47,13 +47,13 @@
   * [其他工具](Setting/Appendix/Tools)
 
 ## 其他站外連結
-  * [POM Blogger](https://partiallyorderedmagic.blogspot.com/)
+  * [POM Blogger](https://posetmage.blogspot.com/)
   * [POM Youtube](https://www.youtube.com/channel/UCWcv0h98DRlLEeMftXsZI1Q/)
   * POM小說連載區
-    * [POM gh連載](https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/tree/master/Novel)
-    * [POM FB連載](https://www.facebook.com/PartiallyOrderedMagic)
+    * [POM gh連載](https://github.com/posetmage/posetmage.github.io/tree/master/Novel)
+    * [POM FB連載](https://www.facebook.com/posetmage)
   * 副頻道A.A.L
     * [AAL blogger](http://ariealchemielich.blogspot.com/)
     * [AAL youtube](https://www.youtube.com/channel/UCjO8W8GHQGbm4dFXvY8-02w)
 
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="/Icon/Transparent/POM.png" Height="32" /></p>
