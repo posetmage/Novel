@@ -10,23 +10,23 @@
 ## 強化武器
 使用盧恩符文中的k + a，其意涵為火炬+諸神  
 讓武器攻擊力上升  
- <img src="/Setting/Ch2/Runes/k_a.svg" Height="100" />
+ <img src="./k_a.svg" Height="100" />
 
 ## 增幅
 使用依序使用s + t + g，其意涵為太陽、戰神提爾、禮物  
 增強接下來使用的技能的效果狀態，無法疊加  
 強化對象也包含這個技能本身，所以常見先施展第一次增幅先強化增幅，再用來強化其他技能  
- <img src="/Setting/Ch2/Runes/s_t_g.svg" Height="100" />
+ <img src="./s_t_g.svg" Height="100" />
 
 ## 結界力場
 使用æ + b + j + n其意涵為紫杉樹、樺木、豐收、需求  
 原本是用來輔助採集打獵的陷阱，結合機械科技之後可用來困住敵人  
- <img src="/Setting/Ch2/Runes/%C3%A6%20_b_j_n.svg" Height="100" />
+ <img src="./%C3%A6%20_b_j_n.svg" Height="100" />
 
 ## 魔法飾品製作
 使用f +ŋ+ p + m + w 其意涵為財富、 Ingwaz神、可能性 + 人 + 喜悅  
 因為加入了可能性，會隨機帶有些性質  
- <img src="/Setting/Ch2/Runes/f_%C5%8B_p_m_w.svg" Height="100" />
+ <img src="./f_%C5%8B_p_m_w.svg" Height="100" />
 
 
 ## 字母表
@@ -58,9 +58,9 @@ UCS|Trans-literation|Meaning
 ᛟ | o | heritage, estate, possession
 ᛞ | d | day
 
-上一篇[卡巴拉樹](/Setting/Ch2/Kabbalah), 
+上一篇[卡巴拉樹](../Kabbalah), 
 回到[目錄](/#ch-2-documentation), 
-下一篇[鍊金術](/Setting/Ch2/Alchemy)
+下一篇[鍊金術](../Alchemy)
 
 
 <p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

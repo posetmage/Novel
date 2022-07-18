@@ -6,7 +6,7 @@
 
 # 推測世界樣貌
 目前認為世界是由三層構成，凱茵茲．法蘭 將其分類為上中下三層(圖3)。   
- <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch1/WorldMap/WorldMap1.svg" Height="300" />
+ <img src="./WorldMap1.svg" Height="300" />
 
 各層有數個界，比如中層有西方大陸界、未踏域界、大陸盡頭界、浮空島界。而下層目前已知的只有下界。   
 上層只是由地質學家和考古學家歷史學家共同推論出來存在的一層，目前猜測至少有神界。  
@@ -19,7 +19,7 @@
 中層的西方大陸界土地面積最大，也是人們目前最常活動的範圍。   
 不過交通最發達的並不是西方大陸界而是浮空島界，因為浮空島界都是大量的飄浮島嶼，自然需要各式各樣的交通和通訊技術。也因此浮空島界是商業中心。   
 也多虧於浮空島界開發出優異的交通技術，在三界往返只是時間的問題。通常三界是指下界、西方大陸界、浮空島界(圖4)。   
- <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch1/WorldMap/WorldMap2.svg" Height="300" />
+ <img src="./WorldMap2.svg" Height="300" />
 
 由於大陸盡頭界並沒有值得特地作為活動據點的優勢，基本上都是學術團體才會去大陸盡頭界做學術研究。加上那邊或許存在與神界溝通的可能，各國都有派駐警備在那邊警戒，沒事跑去那可是會被當可疑人物吃不完兜著走。   
 中層還有一界比較少人提的是未踏域界，由於附近有大量的強力魔物，即使有人試圖在附近建立據點也會被進攻或偷襲破壞。  
@@ -32,10 +32,10 @@
 可別傻傻地以為開到公海只有飛空艇註冊的國家可以抓罪犯，在中立地帶的法則是冒險者警備隊有抓罪犯的權利，再由國際法庭引渡，畢竟浮空島界有相當發達的通訊技術要跟各國溝通可是相當快的，就算躲避了冒險者抓捕也會快速被通緝。   
 *−−雪莉．法蘭《世界長這樣？》*  
 
-上一篇[某商人的日記](../Diary) ,
-回到[目錄](../../../#ch-1-world-setting) ,
+上一篇[某商人的日記](../Diary), 
+回到[目錄](/#ch-1-world-setting), 
 下一篇[圖書館抄書](../Manuscript)
 
 
 
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

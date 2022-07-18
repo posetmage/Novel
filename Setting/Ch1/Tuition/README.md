@@ -26,11 +26,10 @@
 美安：「太棒了我要吃布丁」   
 聽到快速地跑步聲音，歐姆心想這未免太沒有貴族的風範了。   
 
-上一篇[某商人的第一次占卜](../Divination/) ,
-回到[目錄](../../../#ch-1-world-setting) ,
+上一篇[某商人的第一次占卜](../Divination/), 
+回到[目錄](/#ch-1-world-setting), 
 下一篇[戰術指南](../Tactics)
 
 
 
-
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

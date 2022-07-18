@@ -30,19 +30,19 @@
 整個牌陣占卜抽卡須全程由你執行，先洗牌，抽出一張陣眼並且翻開，再洗牌，接著抽出剩下牌陣需要的牌不翻開。直到所有牌陣需要的牌抽完之後，才一次翻開。  
 陣眼並沒有正逆位之分，所以是橫擺的。 」   
 占卜師：「我先示範一次，洗牌方式是順時針方向以圓形方式將排搓散開，手隨意的在順時針方向上繞打亂牌的方向和順序，一直洗到你覺得夠亂，再把牌疊整齊，打開最上面的一張當陣眼。」   
-<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch1/Divination/Divination1.svg" Width="250" />
+<img src="./Divination1.svg" Width="250" />
 
 占卜師邊說明邊將牌組打散，看得出來是很熟練的動作，單手從逆時針方向推回卡牌幾乎就快疊好了，再稍微調整就把牌整理回一疊。   
 占卜師：「接著看情況，如果你覺得麻煩，可以不要洗牌改用切牌，隨意的把牌組拿開分成兩疊，再把上疊放到下疊，這樣也是一種洗牌。   
 再將牌組做扇形的展開，從展開後的牌組抽一張牌。   
-<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch1/Divination/Divination2.svg" Width="250" />
+<img src="./Divination2.svg" Width="250" />
 
 占卜的時候這樣就可以了，如果是要發動預言，因為需要大幅增加Entropy，所以需要你每抽一張就執行搓開洗牌、切牌、從中抽一張。」   
 占卜師：「我們就先從結構比較好理解的時間之流陣來擺，牌陣簡單不表示功能簡單，只是選擇不同而已，所以你在三個問題整個儀式過程心態都要保持一致。   
 為了讓預言效果比較好，就先讓你熟悉儀式的流程，把女兒的問題放在最後」   
 客人：「OK。」   
 占卜師：「那就先心中想著你工作上的狀況洗牌，然後抽出陣眼翻開，再依序抽出三張直擺，這三張分別表示過去、現在、未來。」   
-<img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Setting/Ch1/Divination/Divination3.svg" Width="110"/>
+<img src="./Divination3.svg" Width="110"/>
 
 客人照著剛剛占卜師示範的，順時針搓開牌組洗牌，繞了幾圈之後， 很明顯只是第一次接觸占卜的新手，用兩隻手小心地把牌堆由左右兩側往內夾，再從上下兩方往中間夾在一起。整理好之後打開上面第一張橫擺，接著拿起一小疊，再把剩下的那一疊疊在這疊上面，接著一樣非常生疏的把牌慢慢推開，稱不上是扇形，比較像是蛇形吧，總之還是推開了。   
 最後抽出三張依序由左至右擺放，再打開這些牌。   
@@ -62,12 +62,9 @@
 占卜師：「接著我們來做跟寵物對話的八芒星占卜。 」   
 
 
-上一篇[物理學 - Entropy](../Entropy/) ,
-回到[目錄](../../../#ch-1-world-setting) ,
+上一篇[物理學 - Entropy](../Entropy/), 
+回到[目錄](/#ch-1-world-setting), 
 下一篇[家教課](../Tuition)
 
 
-
-
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
-
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

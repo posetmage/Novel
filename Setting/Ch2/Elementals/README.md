@@ -5,7 +5,7 @@
 <p align="right"><i>−−《勇者鬥惡龍》</i></p>
 
 ## 四元素掌管者
-<img src="/Setting/Ch2/Elementals/FourElement.png" Width="250" />
+<img src="./FourElement.png" Width="250" />
 
 ### Undine
 Undine 乃四元素中水妖，是水元素的掌管者，通常會出現在瀑布或湖泊。  
@@ -25,9 +25,9 @@ Gnome 為地精，掌管自然生物生長，身形極小，可躲在植物後�
 
 
 
-上一篇[脈輪](/Setting/Ch2/Cakra), 
+上一篇[脈輪](../Cakra), 
 回到[目錄](/#ch-2-documentation), 
-下一篇[經絡](/Setting/Ch2/Meridian) 
+下一篇[經絡](../Meridian) 
 
 
 <p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

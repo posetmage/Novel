@@ -26,9 +26,9 @@
 克蕾兒：「那會不會看一看之後被抓去拷問，我絕對不要接近機密資料區。」
 
 
-上一篇[世界地圖](../WorldMap) ,
-回到[目錄](../../../#ch-1-world-setting) ,
+上一篇[世界地圖](../WorldMap), 
+回到[目錄](/#ch-1-world-setting), 
 下一篇[歷史課](../History)
 
 
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>

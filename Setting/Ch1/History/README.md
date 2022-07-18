@@ -23,8 +23,8 @@
 
 
 上一篇[圖書館抄書](../Manuscript),
-回到[目錄](../../../#ch-1-world-setting),
+回到[目錄](/#ch-1-world-setting),
 下一章節[卡巴拉樹](../../Ch2/Kabbalah)
 
 
-<p align="center"><img src="../../../Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="../../../Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
