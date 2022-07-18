@@ -15,8 +15,8 @@ https://cc0.wfublog.com/
 ## 免費商用音樂庫
 《魔王魂》
 
-上一篇[POM由來](https://partiallyorderedmagic.github.io/Setting/Appendix/POM) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#appendix)
+上一篇[POM由來](/../POM) ,
+回到[目錄](/../../../#appendix)
 
 
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/../../../Icon/Design/4Element.svg" Height="32" />POM STUDIO <img src="/../../../Icon/Transparent/POM.png" Height="32" /></p>

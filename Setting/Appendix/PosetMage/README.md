@@ -45,7 +45,7 @@
    * <img src="/../../../Icon/Evolution/012.png" Width="500" />
 
 上一章節[信仰技能](https://partiallyorderedmagic.github.io/Setting/Ch3/Faith) ,
-回到[目錄](https://partiallyorderedmagic.github.io/#appendix) ,
+回到[目錄](/../../../#appendix) ,
 下一篇[其他工具](https://partiallyorderedmagic.github.io/Setting/Appendix/Tools) 
 
 
