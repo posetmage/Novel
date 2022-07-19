@@ -29,9 +29,9 @@
 <img src="./TechSkillTree.svg" Width="350" />
 
 
-上一篇[技能三向性](./Triality), 
+上一篇[技能三向性](../Triality), 
 回到[目錄](/#ch-3-god-view), 
-下一篇[元素技能](./Element)
+下一篇[元素技能](../Element)
 
 
 <p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
