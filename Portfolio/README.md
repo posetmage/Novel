@@ -10,7 +10,7 @@
 ## 參加活動經驗：
 * Faust Game Jam 2022 Taipei
   * 擔任位置：美術、背景音樂
-  * 隊伍成品：https://yanagiragi.itch.io/what-the-pool
+  * 隊伍成品：[What the Pool](https://yanagiragi.itch.io/what-the-pool)
 
 ## 自介
 熱愛ACGN，喜歡聽音樂。
