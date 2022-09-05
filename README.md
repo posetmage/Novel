@@ -47,14 +47,14 @@
   * [其他工具](Setting/Appendix/Tools)
 
 ## 其他站外連結
-  * [PosetMage Blogger](https://posetmage.blogspot.com/)
-  * [PosetMage Youtube](https://www.youtube.com/channel/UCWcv0h98DRlLEeMftXsZI1Q/)
-  * PosetMage小說連載區
-    * [PosetMage gh連載](https://github.com/posetmage/posetmage.github.io/tree/master/Novel)
-    * [PosetMage FB連載](https://www.facebook.com/posetmage)
+  * 主頻道 Posetmage 
+    * [PosetMage FB](https://www.facebook.com/posetmage)
+    * [PosetMage Youtube](https://www.youtube.com/channel/UCWcv0h98DRlLEeMftXsZI1Q/)
+    * [PosetMage Blogger](https://posetmage.blogspot.com/)
   * 副頻道QuantumNecro
+    * [QuantumNecro youtube](https://www.youtube.com/channel/UCQhCYqt0yghYYOx2lysvjaQ)
     * [QuantumNecro facebook](https://www.facebook.com/QuantumNecro)
     * [QuantumNecro blogger](http://QuantumNecro.blogspot.com/)
-    * [QuantumNecro youtube](https://www.youtube.com/channel/UCQhCYqt0yghYYOx2lysvjaQ)
+    
 
 <p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
