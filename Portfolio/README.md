@@ -6,7 +6,7 @@
 * [畫圖集](https://www.facebook.com/QuantumNecro)
 * [音樂集](https://www.youtube.com/channel/UCQhCYqt0yghYYOx2lysvjaQ)
 
-註："我已經準備好一份遊戲企劃書了 - 馬上寫一份" 此題目前對於遊戲的想法並不在上述內容之中
+註："我已經準備好一份遊戲企劃書了 - 馬上寫一份" 此題目前對於遊戲的想法並不在上述內容之中，還在我的心中
 
 ## 參加活動經驗：
 * Faust Game Jam 2022 Taipei
