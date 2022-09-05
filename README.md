@@ -49,10 +49,11 @@
 ## 其他站外連結
   * [PosetMage Blogger](https://posetmage.blogspot.com/)
   * [PosetMage Youtube](https://www.youtube.com/channel/UCWcv0h98DRlLEeMftXsZI1Q/)
-  * POM小說連載區
+  * PosetMage小說連載區
     * [PosetMage gh連載](https://github.com/posetmage/posetmage.github.io/tree/master/Novel)
     * [PosetMage FB連載](https://www.facebook.com/posetmage)
-  * 副頻道A.A.L
+  * 副頻道QuantumNecro
+    * [QuantumNecro facebook](https://www.facebook.com/QuantumNecro)
     * [QuantumNecro blogger](http://QuantumNecro.blogspot.com/)
     * [QuantumNecro youtube](https://www.youtube.com/channel/UCQhCYqt0yghYYOx2lysvjaQ)
 
