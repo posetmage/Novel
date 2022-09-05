@@ -18,4 +18,4 @@
 目標是成為遊戲製作人，為此需要會everything，因為任何元素都可能讓遊戲增添內涵。  
 有空時會看大量的youtuber，喜歡廣泛學習不同領域的知識，ex:經濟、演化、哲學、圍棋、投資、醫學、遊戲設計....  
 閒暇之餘會將不同領域知識做整理，比如[ColorSpace](https://github.com/QuantumNecro/Knowledge/blob/main/Science/Physics/ColorSpace.md)這篇串聯了生物學、物理學、色彩學等知識。  
-[完整履歷](https://EncryptCurse.github.io)
+## [完整履歷](https://EncryptCurse.github.io)
