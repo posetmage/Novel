@@ -7,7 +7,7 @@
 ## 履歷
 [Linkedin](https://EncryptCurse.github.io)
 * 現任Qualcomm DSP CV工程師，擅長C++
-* 前VIVE VR Graphics team，擅長DX11, DX12等GPU優化技術
+* 前VIVE VR Graphics team，擅長圖學演算法、DX11, DX12等GPU優化技術
 * 交大資工碩畢，碩論方向為Real-time Global Illumination
 
 ## 作品集
