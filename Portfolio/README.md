@@ -2,7 +2,7 @@
 
 熱愛ACGN，目標是成為遊戲設計師，為了創作平時會累積大量不同領域的知識儲備。  
 有空時會看大量的專業領域youtuber例如物理、經濟、演化、哲學、撲克、圍棋、投資、醫學、遊戲設計、重訓、音樂、繪畫、宗教、神話....。  
-以前偶爾會寫技術文章，該習慣現在沿用在閒暇之餘會將不同領域知識做[整理](https://github.com/QuantumNecro/Knowledge)。  
+以前偶爾會寫技術文章，該習慣延續到現在轉成閒暇之餘會將不同領域知識做[整理](https://github.com/QuantumNecro/Knowledge)。  
 
 ## 履歷
 [Linkedin](https://EncryptCurse.github.io)
