@@ -14,7 +14,7 @@
 * [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
 * [幻想世界觀設定書](https://posetmage.github.io)
 * [畫圖集](https://www.facebook.com/QuantumNecro)
-* [音樂集](https://www.youtube.com/channel/UCQhCYqt0yghYYOx2lysvjaQ)
+* [音樂集](https://www.youtube.com/playlist?list=PLPCB8U8InbbtVzkpDruYrB3TSDP-FPZpD)
 
 ## 參加活動經驗：
 * Faust Game Jam 2022 Taipei
