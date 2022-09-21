@@ -5,7 +5,7 @@
 ![](./01%20Brainstorming.png)
 
 ## 提案
-![](./01%20Brainstorming.png)
+![](./02%20Proposal.png)
 
 ## 故事大綱
 ![](./03%20Screenplay.png)
