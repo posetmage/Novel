@@ -2,7 +2,7 @@
 
 
 ## 發想
-![](./01 Brainstorming.png)
+![](https://raw.githubusercontent.com/posetmage/posetmage.github.io/master/Portfolio/Siegel%20Battle/01%20Brainstorming.png)
 
 ## 提案
 ![](./02 Proposal.png)
