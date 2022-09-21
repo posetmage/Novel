@@ -11,6 +11,7 @@
 * 交大資工碩畢，碩論方向為Real-time Global Illumination
 
 ## 作品集
+* (正在寫)[Siegel Battle](./Siegel Battle/)
 * [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
 * [幻想世界觀設定書](https://posetmage.github.io)
 * [畫圖集](https://www.facebook.com/QuantumNecro)
