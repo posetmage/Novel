@@ -5,7 +5,6 @@
 經常學習新事物或跨領域的概念，以前偶爾會寫技術文章，該習慣延續到現在轉成閒暇之餘會將不同領域知識做[整理](https://github.com/QuantumNecro/Knowledge)。  
 
 ## 履歷
-[Linkedin](https://EncryptCurse.github.io)
 * 現任Qualcomm DSP CV工程師，擅長C++
 * 前VIVE VR Graphics team，擅長圖學演算法、DX11, DX12等GPU優化技術
 * 交大資工碩畢，碩論方向為Real-time Global Illumination
@@ -14,8 +13,6 @@
 * (正在寫)[Siegel Battle](./Siegel%20Battle/)
 * [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
 * [幻想世界觀設定書](https://posetmage.github.io)
-* [畫圖集](https://www.facebook.com/QuantumNecro)
-* [音樂集](https://www.youtube.com/playlist?list=PLPCB8U8InbbtVzkpDruYrB3TSDP-FPZpD)
 
 ## 參加活動經驗：
 * Faust Game Jam 2022 Taipei
