@@ -48,8 +48,8 @@
 
 ## 其他站外連結
   * 主頻道 Posetmage 
-    * [PosetMage FB](https://www.facebook.com/posetmage)
     * [PosetMage Youtube](https://www.youtube.com/channel/UCWcv0h98DRlLEeMftXsZI1Q/)
+    * [PosetMage FB](https://www.facebook.com/posetmage)    
     * [PosetMage Blogger](https://posetmage.blogspot.com/)
   * 副頻道 QuantumNecro
     * [QuantumNecro Youtube](https://www.youtube.com/channel/UCQhCYqt0yghYYOx2lysvjaQ)
