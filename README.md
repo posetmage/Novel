@@ -47,11 +47,11 @@
   * [其他工具](Setting/Appendix/Tools)
 
 ## 其他站外連結
-  * 主頻道 Posetmage 
+  * 主頻道 <img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" />
     * [PosetMage Youtube](https://www.youtube.com/channel/UCWcv0h98DRlLEeMftXsZI1Q/)
     * [PosetMage FB](https://www.facebook.com/posetmage)    
     * [PosetMage Blogger](https://posetmage.blogspot.com/)
-  * 副頻道 QuantumNecro
+  * 副頻道 <img src="/Icon/Design/4Element.svg" Height="32" /> QuantumNecro <img src="/Icon/Transparent/AAL_t.png" Height="32" />
     * [QuantumNecro Youtube](https://www.youtube.com/channel/UCQhCYqt0yghYYOx2lysvjaQ)
     * [QuantumNecro FB](https://www.facebook.com/QuantumNecro)
     * [QuantumNecro Blogger](http://QuantumNecro.blogspot.com/)
