@@ -16,5 +16,12 @@
 
 ## 履歷
 * 現任Qualcomm DSP CV工程師，擅長C++
-* 前VIVE VR Graphics team，擅長圖學演算法、DX11, DX12等GPU優化技術
+* 前VIVE VR Graphics team，擅長CG演算法, DX11, DX12等GPU優化技術
 * 交大資工碩畢，碩論方向為Real-time Global Illumination
+
+## 自介
+遊戲設計師，熱愛ACGN。喜歡的玩遊戲類型包含SLG, SRPG, JRPG, CRPG, ARPG, Rogue-like, RTS, AVG, Galgame, ......  
+有空也會看輕小說、漫畫、大量動畫，對我而言媒介只是的載體。  
+也喜歡聽音樂，喜歡的音樂類型包含古典, 爵士, 搖滾, 前衛, 後搖, 金屬, Djent, ......  
+除此之外也會喜歡各種領域的知識，會看大量的專業youtuber或各種書籍文章或者文件，跨領域的知識也帶來對於不同領域知識的獨到見解。  
+喜歡學習新的領域並且能快速得在短時間內建立一定程度的理解。  
