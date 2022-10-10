@@ -5,7 +5,7 @@
 身為遊戲設計師是為了模擬回去之後可能是法則已經改變的世界，必須預演其他可能性，為此儲備大量的[知識領域](https://github.com/QuantumNecro/Knowledge)。  
 
 ## 作品集
-* (正在寫)[Siegel Battle](./Siegel%20Battle/)
+* (正在寫)[Siegel Battle企劃書](./Siegel%20Battle/)
 * [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
 * [幻想世界觀設定書](https://posetmage.github.io)
 * (增加內容中)[自製遊戲](https://youtu.be/M7fq31j2F1I)
