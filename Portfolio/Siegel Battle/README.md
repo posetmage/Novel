@@ -9,3 +9,9 @@
 
 ## 故事大綱
 ![](./03%20Screenplay.png)
+
+## 人物設計
+![](./Claire.png)
+![](./Medina.png)
+![](./Sienna.png)
+![](./Cole.png)
