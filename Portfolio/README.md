@@ -8,9 +8,8 @@
 * (正在寫)[Siegel Battle](./Siegel%20Battle/)
 * [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
 * [幻想世界觀設定書](https://posetmage.github.io)
-* 自製遊戲
-  * (增加內容中) https://youtu.be/M7fq31j2F1I
-    * 內容：隨機生成地圖的2D platform
+* (增加內容中)[自製遊戲](https://youtu.be/M7fq31j2F1I)
+  * 隨機生成地圖的2D platform
 
 ## 參加活動經驗
 * Faust Game Jam 2022 Taipei
