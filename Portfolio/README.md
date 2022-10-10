@@ -5,10 +5,10 @@
 身為遊戲設計師是為了模擬回去之後可能是法則已經改變的世界，必須預演其他可能性，為此儲備大量的[知識領域](https://github.com/QuantumNecro/Knowledge)。  
 
 ## 作品集
-* [Siegel Battle企劃書](./Siegel%20Battle/)
-* [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
-* [幻想世界觀設定書](https://posetmage.github.io)
-* [遊戲](https://youtu.be/M7fq31j2F1I)
+1. [Siegel Battle企劃書](./Siegel%20Battle/)
+2. [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
+3. [幻想世界觀設定書](https://posetmage.github.io)
+4. [遊戲](https://youtu.be/M7fq31j2F1I)
   * 隨機生成地圖的2D platform
 
 ## 參加活動經驗
@@ -22,8 +22,8 @@
 * 交大資工碩畢，碩論方向為Real-time Global Illumination
 
 ## 自介
-遊戲設計師，熱愛ACGN。喜歡的玩遊戲類型包含SLG, SRPG, JRPG, CRPG, ARPG, Rogue-like, RTS, AVG, Galgame, ......  
+遊戲設計師，熱愛ACGN。喜歡的玩遊戲類型包含SLG, SRPG, JRPG, CRPG, ARPG, Rogue-like, RTS, AVG, Galgame, ......。  
 有空時會看輕小說、漫畫、大量動畫，對我而言媒介只是的載體，所追求的劇情是合理性。  
-也喜歡聽音樂，喜歡的音樂類型包含古典, 爵士, 搖滾, 前衛, 後搖, 金屬, Djent, ......  
+也喜歡聽音樂，包含古典, 爵士, 搖滾, 前衛, 後搖, 金屬, Djent, ......。  
 除此之外也會喜歡各種新的領域或知識，會看大量的專業youtuber或各種文件書籍文章，能快速在短時間內建立一定程度的理解，跨領域的知識也帶來對於不同領域知識的獨到見解。  
-身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章，有時候會學一點unity，為了學unity偶爾會拿leetcode來練C#。
+身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章，有時候會學一點unity，為了學unity偶爾會拿leetcode來練C#。  
