@@ -23,7 +23,7 @@
 
 ## 自介
 遊戲設計師，熱愛ACGN，為了創作持續儲備極大量的專業知識領域。  
-喜歡的玩遊戲類型包含SLG, SRPG, JRPG, CRPG, ARPG, Rogue-like, RTS, AVG, Galgame, ......。  
+喜歡的玩遊戲類型包含galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......。  
 有空時會看輕小說、漫畫、大量動畫，媒介只是的載體，所追求的劇情是合理性。  
 也喜歡聽音樂，包含古典, 爵士, 搖滾, 前衛, 後搖, 金屬, Djent, ......。  
 除此之外也會喜歡各種新的領域或知識，會看大量的專業youtuber或各種文件書籍文章，能快速在短時間內建立一定程度的理解，跨領域的知識也帶來對於不同領域知識的獨到見解。  
