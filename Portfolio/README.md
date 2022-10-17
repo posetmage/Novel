@@ -17,7 +17,7 @@
   * 隊伍成品：[What the Pool](https://yanagiragi.itch.io/what-the-pool)
 
 ## 履歷
-* 現任Qualcomm CV工程師，擅長C++
+* 現任CV工程師，擅長C++、CV演算法
 * 前VIVE VR Graphics工程師，擅長CG演算法, DX11, DX12等GPU優化技術
 * 交大資工碩畢，碩論方向為Real-time Global Illumination
 
