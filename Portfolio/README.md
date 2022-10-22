@@ -10,7 +10,9 @@
 3. [幻想世界觀設定書](https://posetmage.github.io)
 4. [遊戲](https://youtu.be/M7fq31j2F1I)
   * 隨機生成地圖的2D platform
-
+5. 遊戲分析(非本遊戲的競品分析)
+  * [Cult of the Lamb](./CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
+  
 ## 參加活動經驗
 * Faust Game Jam 2022 Taipei
   * 擔任位置：美術、音樂
