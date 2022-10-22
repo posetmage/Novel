@@ -1,10 +1,10 @@
-# Cult of the Lamb
+# [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
 
-https://www.gog.com/en/game/cult_of_the_lamb
+類似產品：[RemiLore: Lost Girl in the Lands of Lore](https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/)
 
 ## 行銷
 
-銷量：1,000,000~2,000,000(https://steamspy.com/)
+銷量：[1,000,000~2,000,000](https://steamspy.com/app/1313140)
 
 發行方式：透過發行商翻譯移植在地化
 
@@ -16,28 +16,25 @@ https://www.gog.com/en/game/cult_of_the_lamb
 
 
 ## 團隊規模
-不含配音16人
-
-美術 6人 其中一美術總監、一創意總監
-程式 6人 其中一設計總監兼劇情
-劇情 2人 其中一設計總監兼劇情
-
-音樂 1人
-音效 2人
-配音 9人
-
+* 不含配音16人
+  * 美術 6人 其中一美術總監、一創意總監  
+  * 程式 6人 其中一設計總監兼劇情  
+  * 劇情 2人 其中一設計總監兼劇情  
+  * 音樂 1人  
+  * 音效 2人  
+  * 配音 9人  
 
 ## 優劣分析
 ### SWOT分析
 
 ||Helpful|Harmful|
 |-|-|-|
-|Internal|* 操作直覺<br> * 打擊感細節|* 預設對PC不友善<br>* **嚴重BUG**|
+|Internal|* 操作直覺<br> * 打擊感細節|* **嚴重BUG** <br>* 預設對PC不友善|
 |External|* 培養系統<br> * 畫風獨特 |* Rogue度不足|
 
 ### 詳細描述
 * 遊戲缺點
-  * 對PC不友善
+  * 對PC不友善(遊戲預設手把)
     * 預設鍵盤位置沒有考量鍵盤滑鼠玩家習慣，需要人工自己設定一套
     * 多功能都bind到同一個按鍵，卻要多重設定
   * 嚴重BUG
@@ -50,7 +47,9 @@ https://www.gog.com/en/game/cult_of_the_lamb
       * 路徑能選教徒就不會選其他路徑
       * 獎勵能選永久成長不會選其他暫時效果
   * 身為玩家不喜歡的點
-    * 起始武器是隨機的無法選
+    * 起始武器是隨機的
+    * 可能整輪沒有換武器的機會
+    * (相較於RemiLore中途就算沒打到武器 也會遇到武器商店)
 * 遊戲優點
   * UI/UX
     * 教學/提示完整且直覺
