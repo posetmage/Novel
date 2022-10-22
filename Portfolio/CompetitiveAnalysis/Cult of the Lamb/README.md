@@ -10,9 +10,7 @@
 
 美術風格：邪教/部落
 
-遊戲系統：Rogue-lite(20%) ARPG(80%)
-類似產品：[RemiLore: Lost Girl in the Lands of Lore](https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/)
-
+遊戲系統：Rogue-lite(20%) ARPG(80%)  
 
 ## 團隊規模
 * 不含配音16人
@@ -59,3 +57,7 @@
     * 鏡頭會跟著人物動作有微小的律動
     * 同樣動作會有數個音效增加豐富性
   * 營地有培養的系統
+
+## 備註
+* 此分析使用遊玩時間：2 hr
+* 舉例產品：[RemiLore: Lost Girl in the Lands of Lore](https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/)
