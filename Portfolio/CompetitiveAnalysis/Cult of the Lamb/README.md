@@ -29,9 +29,8 @@ https://www.gog.com/en/game/cult_of_the_lamb
 配音 9人
 
 
-## SWOT分析
-
-|-|Helpful|Harmful
+## 優劣分析
+|SWOT|Helpful|Harmful
 |-|-|-
 |Internal|* 操作直覺<br> * 打擊感細節|* 預設對PC不友善<br>* **嚴重BUG**<br>
 |External|* 培養系統<br> * 畫風獨特 |* Rogue度不足
