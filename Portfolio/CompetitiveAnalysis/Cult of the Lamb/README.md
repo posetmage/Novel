@@ -1,7 +1,5 @@
 # [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
 
-類似產品：[RemiLore: Lost Girl in the Lands of Lore](https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/)
-
 ## 行銷
 
 銷量：[1,000,000~2,000,000](https://steamspy.com/app/1313140)
@@ -13,6 +11,7 @@
 美術風格：邪教/部落
 
 遊戲系統：Rogue-lite(20%) ARPG(80%)
+類似產品：[RemiLore: Lost Girl in the Lands of Lore](https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/)
 
 
 ## 團隊規模
