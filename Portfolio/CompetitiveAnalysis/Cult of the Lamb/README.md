@@ -30,12 +30,12 @@ https://www.gog.com/en/game/cult_of_the_lamb
 
 
 ## 優劣分析
-|SWOT分析|Helpful|Harmful|
+### SWOT分析
+||Helpful|Harmful|
 |-|-|-|
 |Internal|* 操作直覺<br> * 打擊感細節|* 預設對PC不友善<br>* **嚴重BUG**|
 |External|* 培養系統<br> * 畫風獨特 |* Rogue度不足|
-
-
+### 詳細描述
 * 遊戲缺點
   * 對PC不友善
     * 預設鍵盤位置沒有考量鍵盤滑鼠玩家習慣，需要人工自己設定一套
