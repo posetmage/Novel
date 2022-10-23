@@ -59,7 +59,7 @@ UCS|Trans-literation|Meaning
 ᛞ | d | day
 
 上一篇[卡巴拉樹](../Kabbalah), 
-回到[目錄](/#ch-2-documentation), 
+回到[目錄](/Handbook/#ch-2-documentation), 
 下一篇[鍊金術](../Alchemy)
 
 

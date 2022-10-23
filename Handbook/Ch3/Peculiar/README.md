@@ -38,7 +38,7 @@
 
 
 上一篇[一般結構](../General), 
-回到[目錄](/#ch-3-god-view), 
+回到[目錄](/Handbook/#ch-3-god-view), 
 下一章節[人物狀態](../Attribute)
 
 

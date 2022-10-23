@@ -80,7 +80,7 @@ Dwarf-Human | 3| 2.5| 2.5| 2
 
 
 上一篇[特殊結構](../Peculiar), 
-回到[目錄](/#ch-3-god-view), 
+回到[目錄](/Handbook/#ch-3-god-view), 
 下一篇[技能三向性](../Triality)
 
 

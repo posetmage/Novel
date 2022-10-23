@@ -34,7 +34,7 @@
 沒有任何一帖藥能走奇經八脈，要修復受損的奇經八脈只能練氣功
 
 上一篇[元素精靈](../Elementals) ,
-回到[目錄](/#ch-2-documentation) ,
+回到[目錄](/Handbook/#ch-2-documentation) ,
 下一篇[雜文](../Docs) 
 
 

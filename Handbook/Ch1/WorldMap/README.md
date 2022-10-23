@@ -33,7 +33,7 @@
 *−−雪莉．法蘭《世界長這樣？》*  
 
 上一篇[某商人的日記](../Diary), 
-回到[目錄](/#ch-1-world-setting), 
+回到[目錄](/Handbook/#ch-1-world-setting), 
 下一篇[圖書館抄書](../Manuscript)
 
 

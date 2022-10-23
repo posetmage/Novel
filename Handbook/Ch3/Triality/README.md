@@ -28,7 +28,7 @@ Dwarf-Human | -5%| 10%| -5%
 
 
 上一篇[人物狀態](../Attribute), 
-回到[目錄](/#ch-3-god-view), 
+回到[目錄](/Handbook/#ch-3-god-view), 
 下一篇[科技技能](../Technology)
 
 
