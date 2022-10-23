@@ -1,1 +1,6 @@
- <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/test/test.svg" Width="400" />
+
+
+* [/Handbook/#appendix/](/Handbook/#appendix/)
+* [/Handbook/#appendix](/Handbook/#appendix)
+* [/Handbook/](/Handbook/)
+* [/Handbook](/Handbook)
