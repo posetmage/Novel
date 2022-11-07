@@ -31,5 +31,4 @@
 下一篇[戰術指南](../Tactics)
 
 
-
-<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>
