@@ -17,5 +17,4 @@ Entropy真是讓人又愛又恨的物理機制。
 下一篇[某商人的日記](../Diary)
 
 
-
 <p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>
