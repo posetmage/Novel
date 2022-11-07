@@ -64,4 +64,4 @@ Brimstone[10] (archaic name for sulfur) 🜏 (Black sulfur symbol (fixed width).
 下一篇[塔羅牌陣](../Tarot)
 
 
-<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>
