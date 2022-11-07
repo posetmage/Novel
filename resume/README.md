@@ -1,4 +1,4 @@
-# <img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" />
+# <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" />
 
 前世為年齡314的精靈，職業是吟遊詩人與畫家，被卡車撞到之後轉生到這個世界，依稀還記得[原本世界的樣貌](https://posetmage.github.io)。  
 在這個世界雖然繼續當個[吟遊詩人](https://www.youtube.com/playlist?list=PLPCB8U8InbbtVzkpDruYrB3TSDP-FPZpD)和[流浪畫手](https://www.facebook.com/QuantumNecro)，仍不放棄回到原本的世界，經常在ACGN中尋找各種穿越回去的線索。  
@@ -12,7 +12,7 @@
   * 隨機生成地圖的2D platform
 5. 遊戲分析(非本遊戲的競品分析)
   * [Cult of the Lamb](./CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
-  
+
 ## 參加活動經驗
 * Faust Game Jam 2022 Taipei
   * 擔任位置：美術、音樂
@@ -31,3 +31,16 @@
 也喜歡聽音樂，包含古典, 爵士, 搖滾, 前衛, 後搖, 金屬, Djent, ......。  
 除此之外也會喜歡各種新的領域或知識，會看大量的專業youtuber或各種文件書籍文章，能快速在短時間內建立一定程度的理解，跨領域的知識也帶來對於不同領域知識的獨到見解。  
 身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章，有時候會學一點unity，為了學unity偶爾會拿leetcode來練C#。  
+* 聯絡方式
+  * Mail: mail@posetmage.com
+  * Discord: posetmage#3649
+  
+## 個人品牌
+  * 主頻道 <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
+    * [PosetMage Youtube](https://www.youtube.com/@PosetMage)
+    * [PosetMage FB](https://www.facebook.com/posetmage)    
+    * [PosetMage Blogger](https://posetmage.blogspot.com/)
+  * 副頻道 <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> QuantumNecro
+    * [QuantumNecro Youtube](https://www.youtube.com/@QuantumNecro)
+    * [QuantumNecro FB](https://www.facebook.com/QuantumNecro)
+    * [QuantumNecro Blogger](http://QuantumNecro.blogspot.com/)
