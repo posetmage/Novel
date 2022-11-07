@@ -45,7 +45,7 @@
    * <img src="/Icon/Evolution/012.png" Width="500" />
 
 ## 設計師重新基於地水火風概念設計新的圖案
-   * <img src="/Icon/Design/4Element.svg" Width="260" />
+   * <img src="/Icon/Design/FourElement.png" Width="260" />
 
 ## 縮短詠唱
 * Partially Ordered Set 有正式縮寫po-set
