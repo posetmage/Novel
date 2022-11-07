@@ -20,33 +20,43 @@
 
 ## ICON 演進歷史
  * Magic + partial order+地水火風四色
-   * <img src="/Icon/Evolution/001.png" Width="30" />
+   * <img src="/Icon/Evolution/001.png" Width="32" />
  * 中心部分使用六角形當作魔法寶石
-   * <img src="/Icon/Evolution/002.png" Width="30" />
+   * <img src="/Icon/Evolution/002.png" Width="32" />
  * 嘗試只用六角形魔法寶石
-   * <img src="/Icon/Evolution/003.png" Width="30" />
+   * <img src="/Icon/Evolution/003.png" Width="32" />
  * 中空菱形當魔法寶石
-   * <img src="/Icon/Evolution/004.png" Width="30" />
+   * <img src="/Icon/Evolution/004.png" Width="32" />
  * 改變比例
-   * <img src="/Icon/Evolution/005.png" Width="30" />
+   * <img src="/Icon/Evolution/005.png" Width="32" />
  * 六角形魔法寶石、中空圓形
-   * <img src="/Icon/Evolution/006.png" Width="30" />
+   * <img src="/Icon/Evolution/006.png" Width="32" />
  * 加回原本的箭頭
-   * <img src="/Icon/Evolution/007.png" Width="30" />
+   * <img src="/Icon/Evolution/007.png" Width="32" />
  * 簡化改為中空菱形
-   * <img src="/Icon/Evolution/008.png" Width="30" />
+   * <img src="/Icon/Evolution/008.png" Width="32" />
  * 捨棄箭頭的身體
-   * <img src="/Icon/Evolution/009.png" Width="30" />
+   * <img src="/Icon/Evolution/009.png" Width="32" />
  * 隨意上個色
-   * <img src="/Icon/Evolution/010.png" Width="30" />
+   * <img src="/Icon/Evolution/010.png" Width="32" />
  * 地水火風四色放到寶石位置
-   * <img src="/Icon/Evolution/011.png" Width="30" />
+   * <img src="/Icon/Evolution/011.png" Width="32" />
  * 完成，當然要來畫個技能樹圖
    * <img src="/Icon/Evolution/012.png" Width="500" />
+
+## 設計師重新基於地水火風概念設計新的圖案
+   * <img src="/Icon/Design/4Element.svg" Width="260" />
+
+## 縮短詠唱
+* Partially Ordered Set 有正式縮寫po-set
+* Partially Ordered Magic 縮短詠唱為 PosetMage
+* 再將設計師的ICON套入原本的POM設計
+* 新LOGO登場：
+  * * <img src="/Icon/New/PosetMage_t.png" Width="32" />
 
 上一章節[信仰技能](../../Ch3/Faith), 
 回到[目錄](/#appendix), 
 下一篇[其他工具](../Tools) 
 
 
-<p align="center"><img src="/Icon/Design/4Element.svg" Height="32" /> PosetMage <img src="/Icon/Transparent/POM.png" Height="32" /></p>
+<p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>
