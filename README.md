@@ -55,6 +55,8 @@
     * [QuantumNecro Youtube](https://www.youtube.com/@QuantumNecro)
     * [QuantumNecro FB](https://www.facebook.com/QuantumNecro)
     * [QuantumNecro Blogger](http://QuantumNecro.blogspot.com/)
-
+  * 聯絡方式
+    * Mail: mail@posetmage.com
+    * Discord: posetmage#3649
 
 <p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>
