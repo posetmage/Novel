@@ -2,7 +2,7 @@
 
 前世為年齡314的精靈，職業是吟遊詩人與畫家，被卡車撞到之後轉生到這個世界，依稀還記得[原本世界的樣貌](https://posetmage.github.io)。  
 在這個世界雖然繼續當個[吟遊詩人](https://www.youtube.com/playlist?list=PLPCB8U8InbbtVzkpDruYrB3TSDP-FPZpD)和[流浪畫手](https://www.facebook.com/QuantumNecro)，仍不放棄回到原本的世界，經常在ACGN中尋找各種穿越回去的線索。  
-身為遊戲設計師是為了模擬回去之後可能是法則已經改變的世界，必須預演其他可能性，為此儲備大量的[知識領域](https://github.com/QuantumNecro/Knowledge)。  
+身為遊戲設計師是為了模擬回去之後可能是法則已經改變的世界，必須預演其他可能性，為此儲備大量的[知識領域](https://wiki.posetmage.com)。  
 
 ## 作品集
 1. [Siegel Battle企劃書](./Siegel%20Battle/)
