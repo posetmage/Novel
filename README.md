@@ -47,7 +47,7 @@
   * [其他工具](Setting/Appendix/Tools)
 
 ## 其他站外連結
-  * [PosetMage Wiki](https://wiki.posetmage.com)
+  * 知識庫 [PosetMage Wiki](https://wiki.posetmage.com)
   * 主頻道 <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
     * [PosetMage Youtube](https://www.youtube.com/@PosetMage)
     * [PosetMage FB](https://www.facebook.com/posetmage)    
