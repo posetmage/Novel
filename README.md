@@ -62,5 +62,6 @@
     * Telegram: https://t.me/PosetMage
     * Twitter: posetmage
     * IG: posetmage
-
+    * LinkedIn: posetmage
+    
 <p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>
