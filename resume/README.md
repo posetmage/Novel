@@ -32,9 +32,12 @@
 除此之外也會喜歡各種新的領域或知識，會看大量的專業youtuber或各種文件書籍文章，能快速在短時間內建立一定程度的理解，跨領域的知識也帶來對於不同領域知識的獨到見解。  
 身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章，有時候會學一點unity，為了學unity偶爾會拿leetcode來練C#。  
 * 聯絡方式
-  * Mail: mail@posetmage.com
-  * Discord: posetmage#3649
-  * Telegram: https://t.me/PosetMage
+    * Mail: mail@posetmage.com
+    * Discord: posetmage#3649
+    * Telegram: https://t.me/PosetMage
+    * Twitter: posetmage
+    * IG: posetmage
+    * LinkedIn: posetmage
 
 ## 個人品牌
   * 主頻道 <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
