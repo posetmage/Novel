@@ -63,5 +63,6 @@
     * Twitter: posetmage
     * IG: posetmage
     * LinkedIn: posetmage
+    * Line: posetmage
     
 <p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>
