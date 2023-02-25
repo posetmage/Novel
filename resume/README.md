@@ -35,16 +35,7 @@
     * Mail: mail@posetmage.com
     * Discord: posetmage#3649
     * Telegram: https://t.me/PosetMage
-    * Twitter: posetmage
-    * IG: posetmage
-    * LinkedIn: posetmage
-    * Mail: mail@posetmage.com
-    * Discord: posetmage#3649
-    * Telegram: https://t.me/PosetMage
-    * Twitter: posetmage
-    * IG: posetmage
-    * LinkedIn: posetmage
-    * Line: posetmage
+    * Twitter, IG, LinkedIn, Line: posetmage
     
 ## 個人品牌
   * 主頻道 <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
