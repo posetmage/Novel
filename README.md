@@ -52,10 +52,10 @@
     * [PosetMage Youtube](https://www.youtube.com/@PosetMage)
     * [PosetMage FB](https://www.facebook.com/posetmage)    
     * [PosetMage Blogger](https://posetmage.blogspot.com/)
-  * 副頻道 <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> QuantumNecro
-    * [QuantumNecro Youtube](https://www.youtube.com/@QuantumNecro)
-    * [QuantumNecro FB](https://www.facebook.com/QuantumNecro)
-    * [QuantumNecro Blogger](http://QuantumNecro.blogspot.com/)
+  * 副頻道 <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage
+    * [LatticeMage Youtube](https://www.youtube.com/@LatticeMage)
+    * [LatticeMage FB](https://www.facebook.com/LatticeMage)
+    * [LatticeMage Blogger](http://LatticeMage.blogspot.com/)
   * 聯絡方式
     * Mail: mail@posetmage.com
     * Discord: posetmage#3649
