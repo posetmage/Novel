@@ -1,6 +1,6 @@
 git config --local user.name "PosetMage"
 git config --local user.email "PosetMage@gmail.com"
-git remote set-url origin git@POM:posetmage/posetmage.github.io.git
+git remote set-url origin git@POM:posetmage/SettingBook.git
 
 git pull
 git add .

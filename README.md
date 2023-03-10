@@ -45,21 +45,5 @@
 ## Appendix
   * [PosetMage由來](Setting/Appendix/PosetMage)
   * [其他工具](Setting/Appendix/Tools)
-
-## 其他站外連結
-  * 知識庫 [PosetMage Wiki](https://wiki.posetmage.com)
-  * 主頻道 <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
-    * [PosetMage Youtube](https://www.youtube.com/@PosetMage)
-    * [PosetMage FB](https://www.facebook.com/posetmage)    
-    * [PosetMage Blogger](https://posetmage.blogspot.com/)
-  * 副頻道 <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage
-    * [LatticeMage Youtube](https://www.youtube.com/@LatticeMage)
-    * [LatticeMage FB](https://www.facebook.com/LatticeMage)
-    * [LatticeMage Blogger](http://LatticeMage.blogspot.com/)
-  * 聯絡方式
-    * Mail: mail@posetmage.com
-    * Discord: posetmage#3649
-    * Telegram: https://t.me/PosetMage
-    * Twitter, IG, LinkedIn, Line: posetmage
     
 <p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>
