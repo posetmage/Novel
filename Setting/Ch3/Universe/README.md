@@ -22,7 +22,7 @@ Partially Ordered Magic的故事大部分發生在第二內圍。
 
 
 上一章節[雜文](../../Ch2/Docs), 
-回到[目錄](/#ch-3-god-view), 
+回到[目錄](/SettingBook/#ch-3-god-view), 
 下一篇[一般結構](../General)
 
 

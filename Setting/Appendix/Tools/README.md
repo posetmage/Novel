@@ -29,7 +29,7 @@ Move or Die 作者提供的鍵盤與搖桿圖示
 https://thoseawesomeguys.com/prompts/  
 
 上一篇[PosetMage由來](../PosetMage), 
-回到[目錄](/#appendix)
+回到[目錄](/SettingBook/#appendix)
 
 
 <p align="center"><img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" /></p>

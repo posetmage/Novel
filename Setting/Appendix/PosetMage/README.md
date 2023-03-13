@@ -55,7 +55,7 @@
   * * <img src="/Icon/New/PosetMage_t.png" Width="32" />
 
 上一章節[信仰技能](../../Ch3/Faith), 
-回到[目錄](/#appendix), 
+回到[目錄](/SettingBook/#appendix), 
 下一篇[其他工具](../Tools) 
 
 

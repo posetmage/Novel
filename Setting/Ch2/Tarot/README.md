@@ -21,7 +21,7 @@
 <img src="./Solomon%20Star.svg" Width="150" />
 
 上一篇[鍊金術](../Alchemy), 
-回到[目錄](/#ch-2-documentation), 
+回到[目錄](/SettingBook/#ch-2-documentation), 
 下一篇[脈輪](../Cakra)
 
 
