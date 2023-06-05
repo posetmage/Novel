@@ -21,7 +21,7 @@
 title: PosetMage SettingBook
 email: latticemage@gmail.com
 
-baseurl: "/Test" # the subpath of your site, e.g. /blog
+baseurl: "/SettingBook" # the subpath of your site, e.g. /blog
 url: "https://posetmage.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 site_favicon: favicon.ico
