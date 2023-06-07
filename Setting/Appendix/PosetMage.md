@@ -56,7 +56,7 @@ layout: default
 * Partially Ordered Magic 縮短詠唱為 PosetMage
 * 長型Icon非目前主流
 * 再將設計師的ICON套入原本的POM設計
-* 新LOGO登場：<img src="/Image/Icon/PosetMage_t.png" Width="32" />
+* 新LOGO登場：<img src="/Images/Icon/PosetMage_t.png" Width="32" />
 
 上一章節[信仰技能](../Ch3/Faith), 
 回到[目錄](/SettingBook/#appendix), 
