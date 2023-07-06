@@ -49,4 +49,5 @@ layout: default
 ## Appendix
   * [PosetMage由來](Setting/Appendix/PosetMage)
   * [其他工具](Setting/Appendix/Tools)
+  * [後記](Setting/Appendix/Epilogue)
  
