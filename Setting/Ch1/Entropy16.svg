@@ -3,8 +3,8 @@
 
 <svg
    width="328.93808"
-   height="190.68758"
-   viewBox="0 0 87.031532 50.452757"
+   height="143.86523"
+   viewBox="0 0 87.031532 38.064345"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -23,10 +23,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.26191077"
-     inkscape:cx="-57.271412"
-     inkscape:cy="-841.88976"
-     inkscape:window-width="1288"
+     inkscape:zoom="1.4815911"
+     inkscape:cx="164.35034"
+     inkscape:cy="92.805633"
+     inkscape:window-width="1299"
      inkscape:window-height="745"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -36,7 +36,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:lockguides="false" />
   <defs
      id="defs2">
     <pattern
@@ -139,35 +140,5 @@
        style="fill:#9cb084;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
        d="m 336.05283,389.92829 c 0,-1.80348 1.47557,-3.27906 3.27905,-3.27906 0,0 0,0 0,0 v 0 c 1.83081,0 3.27905,1.47558 3.27905,3.27906 0,0 0,0 0,0 v 0 c 0,1.8308 -1.44824,3.27905 -3.27905,3.27905 0,0 0,0 0,0 v 0 c -1.80348,0 -3.27905,-1.44825 -3.27905,-3.27905 0,0 0,0 0,0 z"
        id="path3434" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5007px;line-height:125%;font-family:'新細明體';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="310.95731"
-       y="424.59946"
-       id="text3440"><tspan
-         sodipodi:role="line"
-         x="310.95731"
-         y="424.59946"
-         id="tspan3438"
-         style="stroke-width:0.264583"><tspan
-           dx="0"
-           dy="0"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5007px;font-family:'新細明體';fill:#ffffff;stroke-width:0.264583"
-           id="tspan3436">圖</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5007px;line-height:125%;font-family:'Book Antiqua';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="321.45026"
-       y="424.59946"
-       id="text3446"><tspan
-         sodipodi:role="line"
-         x="321.45026"
-         y="424.59946"
-         id="tspan3444"
-         style="stroke-width:0.264583"><tspan
-           dx="0"
-           dy="0"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5007px;font-family:'Book Antiqua';fill:#ffffff;stroke-width:0.264583"
-           id="tspan3442">16</tspan></tspan></text>
   </g>
 </svg>
