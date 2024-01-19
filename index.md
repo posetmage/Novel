@@ -8,7 +8,8 @@ PosetMage Novels
 
 ### [Settings](./Settings)
 basic world settings
-[test]()./SettingBook)
+
+[test](./SettingBook)
 
 ### [Materials](./Materials)
 just some notes

@@ -1,6 +1,6 @@
 ---
-title: 'Arcanum'
-layout: novel-arcanum
+title: 'Materials'
+layout: novel-materials
 ---
 
 Test
