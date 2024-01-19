@@ -35,4 +35,4 @@ Arcanum 魔法不相容原理的科學實驗實在是太ㄎㄧㄤ了，太打到
 
 
 上一篇[工具](./Tools.md), 
-回到[目錄](/SettingBook/#appendix)
+回到[目錄](/Novel/Setting/#appendix)

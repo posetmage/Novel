@@ -31,5 +31,5 @@ layout: page
 
 
 上一篇[世界地圖](./WorldMap), 
-回到[目錄](/SettingBook/#ch-1-world-setting), 
+回到[目錄](/Novel/Setting/#ch-1-world-setting), 
 下一篇[歷史課](./History)

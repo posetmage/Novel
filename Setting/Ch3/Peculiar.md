@@ -42,6 +42,6 @@ layout: page
 
 
 上一篇[一般結構](./General), 
-回到[目錄](/SettingBook/#ch-3-god-view), 
+回到[目錄](/Novel/Setting/#ch-3-god-view), 
 下一章節[人物狀態](./Attribute)
 

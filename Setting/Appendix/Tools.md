@@ -33,5 +33,5 @@ Move or Die 作者提供的鍵盤與搖桿圖示
 https://thoseawesomeguys.com/prompts/  
 
 上一篇[PosetMage由來](./PosetMage), 
-回到[目錄](/SettingBook/#appendix),  
+回到[目錄](/Novel/Setting/#appendix),  
 下一篇[後記](./Epilogue.md)

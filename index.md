@@ -6,7 +6,7 @@ PosetMage Novels
 
 ### [Arcanum](./Arcanum)
 
-### [Settings](./SettingBook)
+### [Settings](./Setting)
 basic world settings
 
 ### [Materials](./Materials)

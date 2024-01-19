@@ -67,5 +67,5 @@ layout: page
 
 
 上一篇[物理學 - Entropy](./Entropy), 
-回到[目錄](/SettingBook/#ch-1-world-setting), 
+回到[目錄](/Novel/Setting/#ch-1-world-setting), 
 下一篇[家教課](./Tuition)

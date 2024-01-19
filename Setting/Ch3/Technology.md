@@ -34,5 +34,5 @@ layout: page
 
 
 上一篇[技能三向性](./Triality), 
-回到[目錄](/SettingBook/#ch-3-god-view), 
+回到[目錄](/Novel/Setting/#ch-3-god-view), 
 下一篇[元素技能](./Element)

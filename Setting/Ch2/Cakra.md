@@ -18,5 +18,5 @@ layout: page
 強化臍輪 (Manipura) ，獲得肉體超越普通人的能力，以至於可以在水上或水下行走。
 
 上一篇[塔羅牌陣](./Tarot), 
-回到[目錄](/SettingBook/#ch-2-documentation), 
+回到[目錄](/Novel/Setting/#ch-2-documentation), 
 下一篇[元素精靈](./Elementals)

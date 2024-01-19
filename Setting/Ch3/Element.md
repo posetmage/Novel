@@ -37,5 +37,5 @@ layout: page
 
 
 上一篇[科技技能](./Technology), 
-回到[目錄](/SettingBook/#ch-3-god-view), 
+回到[目錄](/Novel/Setting/#ch-3-god-view), 
 下一篇[信仰技能](./Faith)

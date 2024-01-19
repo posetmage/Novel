@@ -57,5 +57,5 @@ Entropy並不是什麼高深的概念，甚至可能連學齡前的孩童都能�
   
 *−−海倫．沃特《魔法與科技》*  
 
-回到[目錄](/SettingBook/#ch-1-world-setting), 
+回到[目錄](/Novel/Setting/#ch-1-world-setting), 
 下一篇[某商人的第一次占卜](./Divination)

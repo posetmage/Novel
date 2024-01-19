@@ -49,6 +49,6 @@ layout: page
 
 
 上一章節[歷史課](../Ch1/History), 
-回到[目錄](/SettingBook/#ch-2-documentation), 
+回到[目錄](/Novel/Setting/#ch-2-documentation), 
 下一篇[盧恩符文](./Runes) 
 

@@ -17,5 +17,5 @@ Entropy真是讓人又愛又恨的物理機制。
 *−−凱莉《戰鬥技術指南》*  
 
 上一篇[家教課](./Tuition), 
-回到[目錄](/SettingBook/#ch-1-world-setting), 
+回到[目錄](/Novel/Setting/#ch-1-world-setting), 
 下一篇[某商人的日記](./Diary)
