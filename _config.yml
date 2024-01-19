@@ -27,7 +27,6 @@ url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. 
 includes_dir: _shared/_includes
 layouts_dir: _shared/_layouts
 
-
 repository: posetmage/Novel
 
 feed:
