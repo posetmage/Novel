@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *重要的不是什麼是正確的，而是有自己風格的思考方式*  

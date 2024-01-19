@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *看我跳躍 天之銀嶺*  

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *這雖然是遊戲，但可不是鬧著玩的*  

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *啊哈哈佐祐理不知道*  

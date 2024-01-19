@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *既不回頭，何必不忘；既然無緣，何需誓言*  

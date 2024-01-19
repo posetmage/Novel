@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *這個世上有些事你永遠不該知道*  

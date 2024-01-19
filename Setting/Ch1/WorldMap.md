@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *烏咪沒有犯罪*  

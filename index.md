@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *並非是我選擇了這樣的一生，而是一生選了我。*  

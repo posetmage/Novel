@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *無限接近於零，卻又不等於零的可能性*  

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *我本來不想用這招的*  

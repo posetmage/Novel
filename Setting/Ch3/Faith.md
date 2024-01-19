@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *癢 ，好吃*  

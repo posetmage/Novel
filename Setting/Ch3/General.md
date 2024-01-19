@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *錯的不是我，是這個世界啊*  

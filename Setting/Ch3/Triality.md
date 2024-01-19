@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *惡、即、斬*  

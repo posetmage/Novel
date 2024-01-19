@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *你的英勇長存人心*  

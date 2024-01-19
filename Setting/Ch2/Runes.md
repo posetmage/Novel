@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *看我編織 光環之鎧*  

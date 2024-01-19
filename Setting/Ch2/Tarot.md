@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *Lok‘tar ogar (勝利或者死亡)*  

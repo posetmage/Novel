@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *這是禁止事項*  

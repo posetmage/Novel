@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *命運，全部都是必然的嗎？*  

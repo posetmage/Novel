@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *爆裂吧，現實！*  

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *有能力者的不自覺是對無能力者的諷刺*  

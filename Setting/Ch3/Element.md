@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 *比黑色還要黑 暗之漆黑*    
