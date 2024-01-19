@@ -19,19 +19,45 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Novels from PosetMage
-email: PosetMage@gmail.com
+email: mail@posetmage.com
 
-baseurl: "Novel" # the subpath of your site, e.g. /blog
-url: "https://posetmage.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Novel" # the subpath of your site, e.g. /blog
+url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+includes_dir: _shared/_includes
+layouts_dir: _shared/_layouts
 
 
-#order
-header_pages:
-  - About.md
-  - Blog.md
-  - Novel.md
-  - Weekly.md
-  - Contact.md
+repository: posetmage/Novel
+
+feed:
+  title: "Novels from PosetMage"
+  description: "Novels"
+  author: "PosetMage"
+  email: "mail@posetmage.com"
+  url: "https://posetmage.com/Weekly"
+  output: true
+
+
+social:
+  - platform: envelope
+    url: mailto:mail@posetmage.com
+  - platform: linkedin
+    url: https://linkedin.com/in/posetmage
+  - platform: youtube
+    url: https://youtube.com/@posetmage
+  - platform: facebook
+    url: https://facebook.com/posetmage
+  - platform: twitter
+    url: https://twitter.com/posetmage
+  - platform: discord
+    url: https://discordapp.com/users/1008764516370239538
+  - platform: line
+    url: https://line.me/ti/p/Out6J_7uOq
+  - platform: telegram
+    url: https://t.me/posetmage
+  - platform: twitch
+    url: https://twitch.tv/posetmage
 
 # Build settings
 remote_theme: jekyll/minima
