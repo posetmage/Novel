@@ -18,20 +18,36 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PosetMage SettingBook
+title: Novels from PosetMage
 email: PosetMage@gmail.com
 
-baseurl: "/SettingBook" # the subpath of your site, e.g. /blog
+baseurl: "Novel" # the subpath of your site, e.g. /blog
 url: "https://posetmage.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
+
+#order
+header_pages:
+  - About.md
+  - Blog.md
+  - Novel.md
+  - Weekly.md
+  - Contact.md
+
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
 
 plugins:
   - jekyll-external-links
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-category-pages
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
