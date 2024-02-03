@@ -23,20 +23,15 @@ email: mail@posetmage.com
 
 baseurl: "/Novel" # the subpath of your site, e.g. /blog
 url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
-
-includes_dir: _shared/_includes
-layouts_dir: _shared/_layouts
-
 repository: posetmage/Novel
 
 feed:
   title: "Novels from PosetMage"
-  description: "Novels"
+  description: "AI Synchronizer, loving ACGN"
   author: "PosetMage"
   email: "mail@posetmage.com"
-  url: "https://posetmage.com/Weekly"
+  url: "https://posetmage.com/Novel"
   output: true
-
 
 social:
   - platform: envelope
@@ -49,8 +44,6 @@ social:
     url: https://facebook.com/posetmage
   - platform: twitter
     url: https://twitter.com/posetmage
-  - platform: discord
-    url: https://discordapp.com/users/1008764516370239538
   - platform: line
     url: https://line.me/ti/p/Out6J_7uOq
   - platform: telegram
@@ -73,6 +66,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
