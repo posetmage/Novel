@@ -35,5 +35,4 @@ layout: page
 
 上一篇[元素技能](./Element), 
 回到[目錄](/Novel/Setting/#ch-3-god-view), 
-下一章節[PosetMage由來](../Appendix/PosetMage)
 

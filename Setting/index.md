@@ -45,9 +45,3 @@ layout: page
     * [科技技能](./Ch3/Technology)
     * [元素技能](./Ch3/Element)
     * [信仰技能](./Ch3/Faith)
-
-## Appendix
-  * [PosetMage由來](./Appendix/PosetMage)
-  * [其他工具](./Appendix/Tools)
-  * [後記](./Appendix/Epilogue)
- 
