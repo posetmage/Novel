@@ -18,19 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Novels from PosetMage
+title: PosetMage
 email: mail@posetmage.com
-
-baseurl: "/Novel" # the subpath of your site, e.g. /blog
-url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 repository: posetmage/Novel
+baseurl: /Novel # the subpath of your site, e.g. /blog
+description: Novel
+
 
 feed:
-  title: "Novels from PosetMage"
-  description: "AI Synchronizer, loving ACGN"
-  author: "PosetMage"
-  email: "mail@posetmage.com"
-  url: "https://posetmage.com/Novel"
+  title: Novels from PosetMage
+  description: 国士無双 一騎当千
+  author: PosetMage
+  email: mail@posetmage.com
+  url: https://posetmage.com/Novel
   output: true
 
 social:
