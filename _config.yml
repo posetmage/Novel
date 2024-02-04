@@ -21,6 +21,8 @@
 title: PosetMage
 email: mail@posetmage.com
 url: https://posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
+slogan: 国士無双
+
 repository: posetmage/Novel
 baseurl: /Novel # the subpath of your site, e.g. /blog
 description: Novel
@@ -28,7 +30,7 @@ description: Novel
 
 feed:
   title: Novels from PosetMage
-  description: 国士無双 一騎当千
+  description: 国士無双 
   author: PosetMage
   email: mail@posetmage.com
   url: https://posetmage.com/Novel
