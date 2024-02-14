@@ -1,6 +1,6 @@
 ---
-title: 'Materials'
-layout: novel-materials
+layout: novel
+categories: Materials
 ---
 
-Test
+歷史素材區
