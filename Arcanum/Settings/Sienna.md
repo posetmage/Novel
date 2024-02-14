@@ -2,7 +2,7 @@
 layout: doc/character
 
 Name: "Sienna"
-Image: "Sienna.webp"
+Image: "<img src=\"Sienna.webp\">"
 Race_Gender: "女精靈族"
 Age: "666"
 Body_Shape: "身高193 體重99kg"
