@@ -2,6 +2,7 @@
 layout: doc/character
 
 Name: "Sienna"
+Image: "Sienna.webp"
 Race_Gender: "女精靈族"
 Age: "666"
 Body_Shape: "身高193 體重99kg"
@@ -19,7 +20,6 @@ Concept: "
 頭上戴著貝雷帽，還有一件寬鬆的大衣外套。<br>
 肌肉緊實發達，但是口罩遮著臉部是不讓人容易認出，衣服包覆全身。<br>
 內搭服裝造型接近武僧，頻繁有在做體能訓練，腰間兩側有小刀，腿上有煙霧彈、毒針。<br>
-<img src=\"Sienna.webp\">
 "
 Stage1_History: ""
 Stage1_Personality: ""

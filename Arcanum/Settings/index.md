@@ -1,10 +1,10 @@
 ---
 title: 'Arcanum Settings'
-layout: novel
+layout: base
 
 ---
 
-##
+## 人物設定
 
 [Sienna](./Sienna)
 
