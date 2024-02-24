@@ -1,5 +1,5 @@
 ---
-layout: novel
+layout: page/novel/basic
 categories: Materials
 ---
 

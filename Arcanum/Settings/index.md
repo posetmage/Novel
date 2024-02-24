@@ -4,9 +4,16 @@ layout: base
 
 ---
 
+## 劇情
+
+[Main Story](./Main%20Story)
+
 ## 人物設定
 
-[Sienna](./Sienna)
+* [Medina](./Medina)
+* [Cole](./Cole)
+* [Sienna](./Sienna)
+* [Claire](./Claire)
 
 ## World Map
 
